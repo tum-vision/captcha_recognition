@@ -1,0 +1,4155 @@
+I1026 00:27:46.686631 29273 convert_imageset.cpp:70] Shuffling data
+I1026 00:27:47.431223 29273 convert_imageset.cpp:73] A total of 60000 images.
+I1026 00:27:47.431303 29273 convert_imageset.cpp:104] Opening lmdb temp/05-3_layers-10000_initial_images-correct_mostuncertain/train_db
+E1026 00:27:49.468374 29273 convert_imageset.cpp:177] Processed 1000 files.
+E1026 00:27:51.117151 29273 convert_imageset.cpp:177] Processed 2000 files.
+E1026 00:27:52.882869 29273 convert_imageset.cpp:177] Processed 3000 files.
+E1026 00:27:54.558425 29273 convert_imageset.cpp:177] Processed 4000 files.
+E1026 00:27:56.257643 29273 convert_imageset.cpp:177] Processed 5000 files.
+E1026 00:27:57.920478 29273 convert_imageset.cpp:177] Processed 6000 files.
+E1026 00:27:59.690300 29273 convert_imageset.cpp:177] Processed 7000 files.
+E1026 00:28:01.599767 29273 convert_imageset.cpp:177] Processed 8000 files.
+E1026 00:28:03.452625 29273 convert_imageset.cpp:177] Processed 9000 files.
+E1026 00:28:04.918802 29273 convert_imageset.cpp:177] Processed 10000 files.
+E1026 00:28:06.648075 29273 convert_imageset.cpp:177] Processed 11000 files.
+E1026 00:28:08.270108 29273 convert_imageset.cpp:177] Processed 12000 files.
+E1026 00:28:09.810299 29273 convert_imageset.cpp:177] Processed 13000 files.
+E1026 00:28:11.491045 29273 convert_imageset.cpp:177] Processed 14000 files.
+E1026 00:28:13.348608 29273 convert_imageset.cpp:177] Processed 15000 files.
+E1026 00:28:14.916065 29273 convert_imageset.cpp:177] Processed 16000 files.
+E1026 00:28:16.563205 29273 convert_imageset.cpp:177] Processed 17000 files.
+E1026 00:28:18.307179 29273 convert_imageset.cpp:177] Processed 18000 files.
+E1026 00:28:19.809980 29273 convert_imageset.cpp:177] Processed 19000 files.
+E1026 00:28:21.444243 29273 convert_imageset.cpp:177] Processed 20000 files.
+E1026 00:28:23.064792 29273 convert_imageset.cpp:177] Processed 21000 files.
+E1026 00:28:24.854749 29273 convert_imageset.cpp:177] Processed 22000 files.
+E1026 00:28:26.687305 29273 convert_imageset.cpp:177] Processed 23000 files.
+E1026 00:28:28.268857 29273 convert_imageset.cpp:177] Processed 24000 files.
+E1026 00:28:29.994531 29273 convert_imageset.cpp:177] Processed 25000 files.
+E1026 00:28:31.582901 29273 convert_imageset.cpp:177] Processed 26000 files.
+E1026 00:28:33.249986 29273 convert_imageset.cpp:177] Processed 27000 files.
+E1026 00:28:34.801942 29273 convert_imageset.cpp:177] Processed 28000 files.
+E1026 00:28:36.378715 29273 convert_imageset.cpp:177] Processed 29000 files.
+E1026 00:28:37.968885 29273 convert_imageset.cpp:177] Processed 30000 files.
+E1026 00:28:39.646699 29273 convert_imageset.cpp:177] Processed 31000 files.
+E1026 00:28:41.349068 29273 convert_imageset.cpp:177] Processed 32000 files.
+E1026 00:28:43.008729 29273 convert_imageset.cpp:177] Processed 33000 files.
+E1026 00:28:44.672158 29273 convert_imageset.cpp:177] Processed 34000 files.
+E1026 00:28:46.370400 29273 convert_imageset.cpp:177] Processed 35000 files.
+E1026 00:28:47.912673 29273 convert_imageset.cpp:177] Processed 36000 files.
+E1026 00:28:49.359062 29273 convert_imageset.cpp:177] Processed 37000 files.
+E1026 00:28:50.906774 29273 convert_imageset.cpp:177] Processed 38000 files.
+E1026 00:28:52.407052 29273 convert_imageset.cpp:177] Processed 39000 files.
+E1026 00:28:54.263890 29273 convert_imageset.cpp:177] Processed 40000 files.
+E1026 00:28:56.006319 29273 convert_imageset.cpp:177] Processed 41000 files.
+E1026 00:28:57.580325 29273 convert_imageset.cpp:177] Processed 42000 files.
+E1026 00:28:59.231668 29273 convert_imageset.cpp:177] Processed 43000 files.
+E1026 00:29:00.842561 29273 convert_imageset.cpp:177] Processed 44000 files.
+E1026 00:29:02.383447 29273 convert_imageset.cpp:177] Processed 45000 files.
+E1026 00:29:03.945062 29273 convert_imageset.cpp:177] Processed 46000 files.
+E1026 00:29:05.509274 29273 convert_imageset.cpp:177] Processed 47000 files.
+E1026 00:29:07.037143 29273 convert_imageset.cpp:177] Processed 48000 files.
+E1026 00:29:08.659718 29273 convert_imageset.cpp:177] Processed 49000 files.
+E1026 00:29:10.206253 29273 convert_imageset.cpp:177] Processed 50000 files.
+E1026 00:29:11.673136 29273 convert_imageset.cpp:177] Processed 51000 files.
+E1026 00:29:13.144567 29273 convert_imageset.cpp:177] Processed 52000 files.
+E1026 00:29:14.701674 29273 convert_imageset.cpp:177] Processed 53000 files.
+E1026 00:29:16.183516 29273 convert_imageset.cpp:177] Processed 54000 files.
+E1026 00:29:17.710968 29273 convert_imageset.cpp:177] Processed 55000 files.
+E1026 00:29:19.152153 29273 convert_imageset.cpp:177] Processed 56000 files.
+E1026 00:29:20.627809 29273 convert_imageset.cpp:177] Processed 57000 files.
+E1026 00:29:22.253274 29273 convert_imageset.cpp:177] Processed 58000 files.
+E1026 00:29:23.892163 29273 convert_imageset.cpp:177] Processed 59000 files.
+E1026 00:29:25.506674 29273 convert_imageset.cpp:177] Processed 60000 files.
+I1026 00:29:25.765606 29874 caffe.cpp:99] Use GPU with device ID 0
+I1026 00:29:26.211874 29874 caffe.cpp:107] Starting Optimization
+I1026 00:29:26.211997 29874 solver.cpp:32] Initializing solver from parameters: 
+base_lr: 0.01
+display: 1000
+max_iter: 50000
+lr_policy: "inv"
+gamma: 0.0001
+power: 0.75
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data"
+solver_mode: GPU
+net: "temp/05-3_layers-10000_initial_images-correct_mostuncertain/network_captchas_with_3_convolutional_layers_train.prototxt"
+I1026 00:29:26.212023 29874 solver.cpp:67] Creating training net from net file: temp/05-3_layers-10000_initial_images-correct_mostuncertain/network_captchas_with_3_convolutional_layers_train.prototxt
+I1026 00:29:26.214270 29874 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  top: "data"
+  top: "label"
+  name: "mnist"
+  type: DATA
+  data_param {
+    source: "temp/05-3_layers-10000_initial_images-correct_mostuncertain/train_db"
+    batch_size: 64
+    backend: LMDB
+  }
+  include {
+    phase: TRAIN
+  }
+  transform_param {
+    scale: 0.00390625
+  }
+}
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  bottom: "label"
+  top: "loss"
+  name: "loss"
+  type: SOFTMAX_LOSS
+}
+state {
+  phase: TRAIN
+}
+I1026 00:29:26.214485 29874 net.cpp:67] Creating Layer mnist
+I1026 00:29:26.214512 29874 net.cpp:356] mnist -> data
+I1026 00:29:26.214547 29874 net.cpp:356] mnist -> label
+I1026 00:29:26.214579 29874 net.cpp:96] Setting up mnist
+I1026 00:29:26.221263 29874 data_layer.cpp:68] Opening lmdb temp/05-3_layers-10000_initial_images-correct_mostuncertain/train_db
+I1026 00:29:26.253363 29874 data_layer.cpp:128] output data size: 64,1,50,180
+I1026 00:29:26.254345 29874 net.cpp:103] Top shape: 64 1 50 180 (576000)
+I1026 00:29:26.254377 29874 net.cpp:103] Top shape: 64 1 1 1 (64)
+I1026 00:29:26.254411 29874 net.cpp:67] Creating Layer conv1
+I1026 00:29:26.254426 29874 net.cpp:394] conv1 <- data
+I1026 00:29:26.254462 29874 net.cpp:356] conv1 -> conv1
+I1026 00:29:26.254490 29874 net.cpp:96] Setting up conv1
+I1026 00:29:26.255444 29874 net.cpp:103] Top shape: 64 48 25 90 (6912000)
+I1026 00:29:26.255513 29874 net.cpp:67] Creating Layer pool1
+I1026 00:29:26.255530 29874 net.cpp:394] pool1 <- conv1
+I1026 00:29:26.255548 29874 net.cpp:356] pool1 -> pool1
+I1026 00:29:26.255568 29874 net.cpp:96] Setting up pool1
+I1026 00:29:26.255600 29874 net.cpp:103] Top shape: 64 48 13 45 (1797120)
+I1026 00:29:26.255625 29874 net.cpp:67] Creating Layer relu1
+I1026 00:29:26.255638 29874 net.cpp:394] relu1 <- pool1
+I1026 00:29:26.255655 29874 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 00:29:26.255671 29874 net.cpp:96] Setting up relu1
+I1026 00:29:26.255684 29874 net.cpp:103] Top shape: 64 48 13 45 (1797120)
+I1026 00:29:26.255703 29874 net.cpp:67] Creating Layer drop1
+I1026 00:29:26.255717 29874 net.cpp:394] drop1 <- pool1
+I1026 00:29:26.255736 29874 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 00:29:26.255754 29874 net.cpp:96] Setting up drop1
+I1026 00:29:26.255769 29874 net.cpp:103] Top shape: 64 48 13 45 (1797120)
+I1026 00:29:26.255789 29874 net.cpp:67] Creating Layer conv2
+I1026 00:29:26.255800 29874 net.cpp:394] conv2 <- pool1
+I1026 00:29:26.255821 29874 net.cpp:356] conv2 -> conv2
+I1026 00:29:26.255844 29874 net.cpp:96] Setting up conv2
+I1026 00:29:26.257066 29874 net.cpp:103] Top shape: 64 64 13 45 (2396160)
+I1026 00:29:26.257094 29874 net.cpp:67] Creating Layer pool2
+I1026 00:29:26.257103 29874 net.cpp:394] pool2 <- conv2
+I1026 00:29:26.257114 29874 net.cpp:356] pool2 -> pool2
+I1026 00:29:26.257127 29874 net.cpp:96] Setting up pool2
+I1026 00:29:26.257135 29874 net.cpp:103] Top shape: 64 64 12 44 (2162688)
+I1026 00:29:26.257145 29874 net.cpp:67] Creating Layer relu2
+I1026 00:29:26.257153 29874 net.cpp:394] relu2 <- pool2
+I1026 00:29:26.257165 29874 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 00:29:26.257176 29874 net.cpp:96] Setting up relu2
+I1026 00:29:26.257184 29874 net.cpp:103] Top shape: 64 64 12 44 (2162688)
+I1026 00:29:26.257195 29874 net.cpp:67] Creating Layer drop2
+I1026 00:29:26.257203 29874 net.cpp:394] drop2 <- pool2
+I1026 00:29:26.257213 29874 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 00:29:26.257223 29874 net.cpp:96] Setting up drop2
+I1026 00:29:26.257232 29874 net.cpp:103] Top shape: 64 64 12 44 (2162688)
+I1026 00:29:26.257246 29874 net.cpp:67] Creating Layer conv3
+I1026 00:29:26.257254 29874 net.cpp:394] conv3 <- pool2
+I1026 00:29:26.257266 29874 net.cpp:356] conv3 -> conv3
+I1026 00:29:26.257277 29874 net.cpp:96] Setting up conv3
+I1026 00:29:26.259758 29874 net.cpp:103] Top shape: 64 128 12 44 (4325376)
+I1026 00:29:26.259793 29874 net.cpp:67] Creating Layer pool3
+I1026 00:29:26.259801 29874 net.cpp:394] pool3 <- conv3
+I1026 00:29:26.259815 29874 net.cpp:356] pool3 -> pool3
+I1026 00:29:26.259829 29874 net.cpp:96] Setting up pool3
+I1026 00:29:26.259845 29874 net.cpp:103] Top shape: 64 128 6 22 (1081344)
+I1026 00:29:26.259857 29874 net.cpp:67] Creating Layer relu3
+I1026 00:29:26.259865 29874 net.cpp:394] relu3 <- pool3
+I1026 00:29:26.259874 29874 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 00:29:26.259884 29874 net.cpp:96] Setting up relu3
+I1026 00:29:26.259892 29874 net.cpp:103] Top shape: 64 128 6 22 (1081344)
+I1026 00:29:26.259906 29874 net.cpp:67] Creating Layer drop3
+I1026 00:29:26.259913 29874 net.cpp:394] drop3 <- pool3
+I1026 00:29:26.259923 29874 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 00:29:26.259934 29874 net.cpp:96] Setting up drop3
+I1026 00:29:26.259943 29874 net.cpp:103] Top shape: 64 128 6 22 (1081344)
+I1026 00:29:26.259954 29874 net.cpp:67] Creating Layer ip1
+I1026 00:29:26.259961 29874 net.cpp:394] ip1 <- pool3
+I1026 00:29:26.259976 29874 net.cpp:356] ip1 -> ip1
+I1026 00:29:26.260025 29874 net.cpp:96] Setting up ip1
+I1026 00:29:26.725177 29874 net.cpp:103] Top shape: 64 3072 1 1 (196608)
+I1026 00:29:26.725239 29874 net.cpp:67] Creating Layer relu4
+I1026 00:29:26.725246 29874 net.cpp:394] relu4 <- ip1
+I1026 00:29:26.725256 29874 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 00:29:26.725266 29874 net.cpp:96] Setting up relu4
+I1026 00:29:26.725271 29874 net.cpp:103] Top shape: 64 3072 1 1 (196608)
+I1026 00:29:26.725278 29874 net.cpp:67] Creating Layer drop4
+I1026 00:29:26.725282 29874 net.cpp:394] drop4 <- ip1
+I1026 00:29:26.725288 29874 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 00:29:26.725294 29874 net.cpp:96] Setting up drop4
+I1026 00:29:26.725301 29874 net.cpp:103] Top shape: 64 3072 1 1 (196608)
+I1026 00:29:26.725316 29874 net.cpp:67] Creating Layer ip2
+I1026 00:29:26.725320 29874 net.cpp:394] ip2 <- ip1
+I1026 00:29:26.725327 29874 net.cpp:356] ip2 -> ip2
+I1026 00:29:26.725337 29874 net.cpp:96] Setting up ip2
+I1026 00:29:26.733420 29874 net.cpp:103] Top shape: 64 378 1 1 (24192)
+I1026 00:29:26.733489 29874 net.cpp:67] Creating Layer loss
+I1026 00:29:26.733497 29874 net.cpp:394] loss <- ip2
+I1026 00:29:26.733505 29874 net.cpp:394] loss <- label
+I1026 00:29:26.733512 29874 net.cpp:356] loss -> loss
+I1026 00:29:26.733522 29874 net.cpp:96] Setting up loss
+I1026 00:29:26.733536 29874 net.cpp:103] Top shape: 1 1 1 1 (1)
+I1026 00:29:26.733541 29874 net.cpp:109]     with loss weight 1
+I1026 00:29:26.733584 29874 net.cpp:170] loss needs backward computation.
+I1026 00:29:26.733589 29874 net.cpp:170] ip2 needs backward computation.
+I1026 00:29:26.733593 29874 net.cpp:170] drop4 needs backward computation.
+I1026 00:29:26.733598 29874 net.cpp:170] relu4 needs backward computation.
+I1026 00:29:26.733603 29874 net.cpp:170] ip1 needs backward computation.
+I1026 00:29:26.733607 29874 net.cpp:170] drop3 needs backward computation.
+I1026 00:29:26.733611 29874 net.cpp:170] relu3 needs backward computation.
+I1026 00:29:26.733615 29874 net.cpp:170] pool3 needs backward computation.
+I1026 00:29:26.733620 29874 net.cpp:170] conv3 needs backward computation.
+I1026 00:29:26.733625 29874 net.cpp:170] drop2 needs backward computation.
+I1026 00:29:26.733629 29874 net.cpp:170] relu2 needs backward computation.
+I1026 00:29:26.733634 29874 net.cpp:170] pool2 needs backward computation.
+I1026 00:29:26.733639 29874 net.cpp:170] conv2 needs backward computation.
+I1026 00:29:26.733644 29874 net.cpp:170] drop1 needs backward computation.
+I1026 00:29:26.733647 29874 net.cpp:170] relu1 needs backward computation.
+I1026 00:29:26.733652 29874 net.cpp:170] pool1 needs backward computation.
+I1026 00:29:26.733656 29874 net.cpp:170] conv1 needs backward computation.
+I1026 00:29:26.733661 29874 net.cpp:172] mnist does not need backward computation.
+I1026 00:29:26.733666 29874 net.cpp:208] This network produces output loss
+I1026 00:29:26.733676 29874 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 00:29:26.733685 29874 net.cpp:219] Network initialization done.
+I1026 00:29:26.733688 29874 net.cpp:220] Memory required for data: 119788292
+I1026 00:29:26.733748 29874 solver.cpp:41] Solver scaffolding done.
+I1026 00:29:26.733755 29874 solver.cpp:160] Solving Captcha
+I1026 00:29:27.388330 29874 solver.cpp:191] Iteration 0, loss = 5.93463
+I1026 00:29:27.388389 29874 solver.cpp:206]     Train net output #0: loss = 5.93463 (* 1 = 5.93463 loss)
+I1026 00:29:27.388406 29874 solver.cpp:403] Iteration 0, lr = 0.01
+I1026 00:37:53.428499 29874 solver.cpp:191] Iteration 1000, loss = 5.00359
+I1026 00:37:53.429134 29874 solver.cpp:206]     Train net output #0: loss = 5.00359 (* 1 = 5.00359 loss)
+I1026 00:37:53.429168 29874 solver.cpp:403] Iteration 1000, lr = 0.00931012
+I1026 00:46:19.244590 29874 solver.cpp:191] Iteration 2000, loss = 4.95355
+I1026 00:46:19.245439 29874 solver.cpp:206]     Train net output #0: loss = 4.95355 (* 1 = 4.95355 loss)
+I1026 00:46:19.245471 29874 solver.cpp:403] Iteration 2000, lr = 0.00872196
+I1026 00:54:47.483010 29874 solver.cpp:191] Iteration 3000, loss = 4.69576
+I1026 00:54:47.483855 29874 solver.cpp:206]     Train net output #0: loss = 4.69576 (* 1 = 4.69576 loss)
+I1026 00:54:47.483892 29874 solver.cpp:403] Iteration 3000, lr = 0.00821377
+I1026 01:03:16.023356 29874 solver.cpp:191] Iteration 4000, loss = 4.46405
+I1026 01:03:16.024096 29874 solver.cpp:206]     Train net output #0: loss = 4.46405 (* 1 = 4.46405 loss)
+I1026 01:03:16.024128 29874 solver.cpp:403] Iteration 4000, lr = 0.0077697
+I1026 01:11:44.857728 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_5000.caffemodel
+I1026 01:11:49.293901 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_5000.solverstate
+I1026 01:11:53.014431 29874 solver.cpp:191] Iteration 5000, loss = 4.3596
+I1026 01:11:53.014925 29874 solver.cpp:206]     Train net output #0: loss = 4.3596 (* 1 = 4.3596 loss)
+I1026 01:11:53.014961 29874 solver.cpp:403] Iteration 5000, lr = 0.00737788
+I1026 01:20:19.726407 29874 solver.cpp:191] Iteration 6000, loss = 4.17737
+I1026 01:20:19.727136 29874 solver.cpp:206]     Train net output #0: loss = 4.17737 (* 1 = 4.17737 loss)
+I1026 01:20:19.727170 29874 solver.cpp:403] Iteration 6000, lr = 0.00702927
+I1026 01:28:46.092334 29874 solver.cpp:191] Iteration 7000, loss = 4.18965
+I1026 01:28:46.093029 29874 solver.cpp:206]     Train net output #0: loss = 4.18965 (* 1 = 4.18965 loss)
+I1026 01:28:46.093063 29874 solver.cpp:403] Iteration 7000, lr = 0.00671681
+I1026 01:37:11.941165 29874 solver.cpp:191] Iteration 8000, loss = 4.12245
+I1026 01:37:11.941709 29874 solver.cpp:206]     Train net output #0: loss = 4.12245 (* 1 = 4.12245 loss)
+I1026 01:37:11.941742 29874 solver.cpp:403] Iteration 8000, lr = 0.00643496
+I1026 01:45:39.331249 29874 solver.cpp:191] Iteration 9000, loss = 4.00859
+I1026 01:45:39.331979 29874 solver.cpp:206]     Train net output #0: loss = 4.00859 (* 1 = 4.00859 loss)
+I1026 01:45:39.332012 29874 solver.cpp:403] Iteration 9000, lr = 0.00617924
+I1026 01:54:06.646306 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_10000.caffemodel
+I1026 01:54:11.171386 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_10000.solverstate
+I1026 01:54:15.151006 29874 solver.cpp:191] Iteration 10000, loss = 4.08831
+I1026 01:54:15.151512 29874 solver.cpp:206]     Train net output #0: loss = 4.08831 (* 1 = 4.08831 loss)
+I1026 01:54:15.151551 29874 solver.cpp:403] Iteration 10000, lr = 0.00594604
+I1026 02:02:43.283941 29874 solver.cpp:191] Iteration 11000, loss = 3.85122
+I1026 02:02:43.284562 29874 solver.cpp:206]     Train net output #0: loss = 3.85122 (* 1 = 3.85122 loss)
+I1026 02:02:43.284595 29874 solver.cpp:403] Iteration 11000, lr = 0.00573239
+I1026 02:11:10.945663 29874 solver.cpp:191] Iteration 12000, loss = 3.6395
+I1026 02:11:10.946250 29874 solver.cpp:206]     Train net output #0: loss = 3.6395 (* 1 = 3.6395 loss)
+I1026 02:11:10.946282 29874 solver.cpp:403] Iteration 12000, lr = 0.00553583
+I1026 02:19:37.267364 29874 solver.cpp:191] Iteration 13000, loss = 3.89928
+I1026 02:19:37.267915 29874 solver.cpp:206]     Train net output #0: loss = 3.89928 (* 1 = 3.89928 loss)
+I1026 02:19:37.267954 29874 solver.cpp:403] Iteration 13000, lr = 0.00535432
+I1026 02:28:05.575444 29874 solver.cpp:191] Iteration 14000, loss = 3.82775
+I1026 02:28:05.576083 29874 solver.cpp:206]     Train net output #0: loss = 3.82775 (* 1 = 3.82775 loss)
+I1026 02:28:05.576117 29874 solver.cpp:403] Iteration 14000, lr = 0.00518611
+I1026 02:36:33.682212 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_15000.caffemodel
+I1026 02:36:38.118710 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_15000.solverstate
+I1026 02:36:42.027804 29874 solver.cpp:191] Iteration 15000, loss = 3.85341
+I1026 02:36:42.028355 29874 solver.cpp:206]     Train net output #0: loss = 3.85341 (* 1 = 3.85341 loss)
+I1026 02:36:42.028394 29874 solver.cpp:403] Iteration 15000, lr = 0.00502973
+I1026 02:45:10.566962 29874 solver.cpp:191] Iteration 16000, loss = 3.64617
+I1026 02:45:10.567507 29874 solver.cpp:206]     Train net output #0: loss = 3.64617 (* 1 = 3.64617 loss)
+I1026 02:45:10.567544 29874 solver.cpp:403] Iteration 16000, lr = 0.00488394
+I1026 02:53:36.639268 29874 solver.cpp:191] Iteration 17000, loss = 3.87458
+I1026 02:53:36.640501 29874 solver.cpp:206]     Train net output #0: loss = 3.87458 (* 1 = 3.87458 loss)
+I1026 02:53:36.640534 29874 solver.cpp:403] Iteration 17000, lr = 0.00474763
+I1026 03:02:02.956593 29874 solver.cpp:191] Iteration 18000, loss = 3.42091
+I1026 03:02:02.957211 29874 solver.cpp:206]     Train net output #0: loss = 3.42091 (* 1 = 3.42091 loss)
+I1026 03:02:02.957247 29874 solver.cpp:403] Iteration 18000, lr = 0.00461989
+I1026 03:10:28.455039 29874 solver.cpp:191] Iteration 19000, loss = 3.49654
+I1026 03:10:28.455860 29874 solver.cpp:206]     Train net output #0: loss = 3.49654 (* 1 = 3.49654 loss)
+I1026 03:10:28.455893 29874 solver.cpp:403] Iteration 19000, lr = 0.00449989
+I1026 03:18:55.687078 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_20000.caffemodel
+I1026 03:19:00.484256 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_20000.solverstate
+I1026 03:19:04.458447 29874 solver.cpp:191] Iteration 20000, loss = 3.45032
+I1026 03:19:04.459162 29874 solver.cpp:206]     Train net output #0: loss = 3.45032 (* 1 = 3.45032 loss)
+I1026 03:19:04.459188 29874 solver.cpp:403] Iteration 20000, lr = 0.00438691
+I1026 03:27:31.966192 29874 solver.cpp:191] Iteration 21000, loss = 3.51408
+I1026 03:27:31.966958 29874 solver.cpp:206]     Train net output #0: loss = 3.51408 (* 1 = 3.51408 loss)
+I1026 03:27:31.966990 29874 solver.cpp:403] Iteration 21000, lr = 0.00428034
+I1026 03:35:58.999964 29874 solver.cpp:191] Iteration 22000, loss = 3.25561
+I1026 03:35:59.000540 29874 solver.cpp:206]     Train net output #0: loss = 3.25561 (* 1 = 3.25561 loss)
+I1026 03:35:59.000573 29874 solver.cpp:403] Iteration 22000, lr = 0.00417963
+I1026 03:44:25.955423 29874 solver.cpp:191] Iteration 23000, loss = 3.30496
+I1026 03:44:25.956229 29874 solver.cpp:206]     Train net output #0: loss = 3.30496 (* 1 = 3.30496 loss)
+I1026 03:44:25.956262 29874 solver.cpp:403] Iteration 23000, lr = 0.00408427
+I1026 03:52:51.654372 29874 solver.cpp:191] Iteration 24000, loss = 3.38606
+I1026 03:52:51.654983 29874 solver.cpp:206]     Train net output #0: loss = 3.38606 (* 1 = 3.38606 loss)
+I1026 03:52:51.655015 29874 solver.cpp:403] Iteration 24000, lr = 0.00399384
+I1026 04:01:18.131289 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_25000.caffemodel
+I1026 04:01:22.485749 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_25000.solverstate
+I1026 04:01:26.396734 29874 solver.cpp:191] Iteration 25000, loss = 3.41182
+I1026 04:01:26.397408 29874 solver.cpp:206]     Train net output #0: loss = 3.41182 (* 1 = 3.41182 loss)
+I1026 04:01:26.397439 29874 solver.cpp:403] Iteration 25000, lr = 0.00390795
+I1026 04:09:28.304358 29874 solver.cpp:191] Iteration 26000, loss = 2.9809
+I1026 04:09:28.305233 29874 solver.cpp:206]     Train net output #0: loss = 2.9809 (* 1 = 2.9809 loss)
+I1026 04:09:28.305266 29874 solver.cpp:403] Iteration 26000, lr = 0.00382625
+I1026 04:17:53.820402 29874 solver.cpp:191] Iteration 27000, loss = 3.40589
+I1026 04:17:53.820998 29874 solver.cpp:206]     Train net output #0: loss = 3.40589 (* 1 = 3.40589 loss)
+I1026 04:17:53.821018 29874 solver.cpp:403] Iteration 27000, lr = 0.00374842
+I1026 04:26:19.326598 29874 solver.cpp:191] Iteration 28000, loss = 3.31826
+I1026 04:26:19.327474 29874 solver.cpp:206]     Train net output #0: loss = 3.31826 (* 1 = 3.31826 loss)
+I1026 04:26:19.327507 29874 solver.cpp:403] Iteration 28000, lr = 0.0036742
+I1026 04:34:46.060809 29874 solver.cpp:191] Iteration 29000, loss = 3.0735
+I1026 04:34:46.061630 29874 solver.cpp:206]     Train net output #0: loss = 3.0735 (* 1 = 3.0735 loss)
+I1026 04:34:46.061663 29874 solver.cpp:403] Iteration 29000, lr = 0.00360331
+I1026 04:43:13.619920 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_30000.caffemodel
+I1026 04:43:18.553597 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_30000.solverstate
+I1026 04:43:22.285029 29874 solver.cpp:191] Iteration 30000, loss = 3.26911
+I1026 04:43:22.285594 29874 solver.cpp:206]     Train net output #0: loss = 3.26911 (* 1 = 3.26911 loss)
+I1026 04:43:22.285634 29874 solver.cpp:403] Iteration 30000, lr = 0.00353553
+I1026 04:51:48.960636 29874 solver.cpp:191] Iteration 31000, loss = 3.27461
+I1026 04:51:48.961488 29874 solver.cpp:206]     Train net output #0: loss = 3.27461 (* 1 = 3.27461 loss)
+I1026 04:51:48.961519 29874 solver.cpp:403] Iteration 31000, lr = 0.00347066
+I1026 05:00:15.427819 29874 solver.cpp:191] Iteration 32000, loss = 3.16581
+I1026 05:00:15.428474 29874 solver.cpp:206]     Train net output #0: loss = 3.16581 (* 1 = 3.16581 loss)
+I1026 05:00:15.428516 29874 solver.cpp:403] Iteration 32000, lr = 0.0034085
+I1026 05:08:42.649215 29874 solver.cpp:191] Iteration 33000, loss = 2.86137
+I1026 05:08:42.649812 29874 solver.cpp:206]     Train net output #0: loss = 2.86137 (* 1 = 2.86137 loss)
+I1026 05:08:42.649844 29874 solver.cpp:403] Iteration 33000, lr = 0.00334887
+I1026 05:17:08.850260 29874 solver.cpp:191] Iteration 34000, loss = 2.91089
+I1026 05:17:08.850847 29874 solver.cpp:206]     Train net output #0: loss = 2.91089 (* 1 = 2.91089 loss)
+I1026 05:17:08.850880 29874 solver.cpp:403] Iteration 34000, lr = 0.00329163
+I1026 05:25:35.065413 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_35000.caffemodel
+I1026 05:25:39.327335 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_35000.solverstate
+I1026 05:25:43.512301 29874 solver.cpp:191] Iteration 35000, loss = 3.22653
+I1026 05:25:43.512863 29874 solver.cpp:206]     Train net output #0: loss = 3.22653 (* 1 = 3.22653 loss)
+I1026 05:25:43.512902 29874 solver.cpp:403] Iteration 35000, lr = 0.00323661
+I1026 05:34:09.047896 29874 solver.cpp:191] Iteration 36000, loss = 3.03863
+I1026 05:34:09.048498 29874 solver.cpp:206]     Train net output #0: loss = 3.03863 (* 1 = 3.03863 loss)
+I1026 05:34:09.048535 29874 solver.cpp:403] Iteration 36000, lr = 0.0031837
+I1026 05:42:36.264492 29874 solver.cpp:191] Iteration 37000, loss = 2.92327
+I1026 05:42:36.265158 29874 solver.cpp:206]     Train net output #0: loss = 2.92327 (* 1 = 2.92327 loss)
+I1026 05:42:36.265194 29874 solver.cpp:403] Iteration 37000, lr = 0.00313276
+I1026 05:51:02.543390 29874 solver.cpp:191] Iteration 38000, loss = 3.03302
+I1026 05:51:02.544214 29874 solver.cpp:206]     Train net output #0: loss = 3.03302 (* 1 = 3.03302 loss)
+I1026 05:51:02.544250 29874 solver.cpp:403] Iteration 38000, lr = 0.00308368
+I1026 05:59:28.414713 29874 solver.cpp:191] Iteration 39000, loss = 2.9167
+I1026 05:59:28.415356 29874 solver.cpp:206]     Train net output #0: loss = 2.9167 (* 1 = 2.9167 loss)
+I1026 05:59:28.415388 29874 solver.cpp:403] Iteration 39000, lr = 0.00303636
+I1026 06:07:55.026716 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_40000.caffemodel
+I1026 06:07:59.361624 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_40000.solverstate
+I1026 06:08:02.870307 29874 solver.cpp:191] Iteration 40000, loss = 3.05405
+I1026 06:08:02.870841 29874 solver.cpp:206]     Train net output #0: loss = 3.05405 (* 1 = 3.05405 loss)
+I1026 06:08:02.870873 29874 solver.cpp:403] Iteration 40000, lr = 0.0029907
+I1026 06:16:28.787361 29874 solver.cpp:191] Iteration 41000, loss = 3.0071
+I1026 06:16:28.788342 29874 solver.cpp:206]     Train net output #0: loss = 3.0071 (* 1 = 3.0071 loss)
+I1026 06:16:28.788377 29874 solver.cpp:403] Iteration 41000, lr = 0.00294661
+I1026 06:24:53.740798 29874 solver.cpp:191] Iteration 42000, loss = 2.83267
+I1026 06:24:53.741407 29874 solver.cpp:206]     Train net output #0: loss = 2.83267 (* 1 = 2.83267 loss)
+I1026 06:24:53.741441 29874 solver.cpp:403] Iteration 42000, lr = 0.00290401
+I1026 06:33:20.062202 29874 solver.cpp:191] Iteration 43000, loss = 2.8809
+I1026 06:33:20.063009 29874 solver.cpp:206]     Train net output #0: loss = 2.8809 (* 1 = 2.8809 loss)
+I1026 06:33:20.063041 29874 solver.cpp:403] Iteration 43000, lr = 0.00286281
+I1026 06:41:46.114466 29874 solver.cpp:191] Iteration 44000, loss = 2.99778
+I1026 06:41:46.115226 29874 solver.cpp:206]     Train net output #0: loss = 2.99778 (* 1 = 2.99778 loss)
+I1026 06:41:46.115264 29874 solver.cpp:403] Iteration 44000, lr = 0.00282296
+I1026 06:50:11.652344 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_45000.caffemodel
+I1026 06:50:16.162767 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_45000.solverstate
+I1026 06:50:20.088744 29874 solver.cpp:191] Iteration 45000, loss = 3.0848
+I1026 06:50:20.089288 29874 solver.cpp:206]     Train net output #0: loss = 3.0848 (* 1 = 3.0848 loss)
+I1026 06:50:20.089321 29874 solver.cpp:403] Iteration 45000, lr = 0.00278438
+I1026 06:58:47.281091 29874 solver.cpp:191] Iteration 46000, loss = 2.7973
+I1026 06:58:47.281745 29874 solver.cpp:206]     Train net output #0: loss = 2.7973 (* 1 = 2.7973 loss)
+I1026 06:58:47.281779 29874 solver.cpp:403] Iteration 46000, lr = 0.002747
+I1026 07:07:14.095726 29874 solver.cpp:191] Iteration 47000, loss = 2.75074
+I1026 07:07:14.096501 29874 solver.cpp:206]     Train net output #0: loss = 2.75074 (* 1 = 2.75074 loss)
+I1026 07:07:14.096534 29874 solver.cpp:403] Iteration 47000, lr = 0.00271078
+I1026 07:15:38.623525 29874 solver.cpp:191] Iteration 48000, loss = 2.77088
+I1026 07:15:38.624253 29874 solver.cpp:206]     Train net output #0: loss = 2.77088 (* 1 = 2.77088 loss)
+I1026 07:15:38.624291 29874 solver.cpp:403] Iteration 48000, lr = 0.00267565
+I1026 07:24:04.736399 29874 solver.cpp:191] Iteration 49000, loss = 2.55768
+I1026 07:24:04.737784 29874 solver.cpp:206]     Train net output #0: loss = 2.55768 (* 1 = 2.55768 loss)
+I1026 07:24:04.737818 29874 solver.cpp:403] Iteration 49000, lr = 0.00264156
+I1026 07:32:31.549073 29874 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_50000.caffemodel
+I1026 07:32:35.861225 29874 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_50000.solverstate
+I1026 07:32:39.236917 29874 solver.cpp:228] Iteration 50000, loss = 2.79108
+I1026 07:32:39.237422 29874 solver.cpp:233] Optimization Done.
+I1026 07:32:39.237445 29874 caffe.cpp:121] Optimization Done.
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I1026 07:53:02.740896 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 07:53:02.740999 28033 net.cpp:358] Input 0 -> data
+I1026 07:53:02.741024 28033 net.cpp:67] Creating Layer conv1
+I1026 07:53:02.741029 28033 net.cpp:394] conv1 <- data
+I1026 07:53:02.741035 28033 net.cpp:356] conv1 -> conv1
+I1026 07:53:02.741045 28033 net.cpp:96] Setting up conv1
+I1026 07:53:02.741358 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 07:53:02.741376 28033 net.cpp:67] Creating Layer pool1
+I1026 07:53:02.741381 28033 net.cpp:394] pool1 <- conv1
+I1026 07:53:02.741387 28033 net.cpp:356] pool1 -> pool1
+I1026 07:53:02.741394 28033 net.cpp:96] Setting up pool1
+I1026 07:53:02.741408 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:53:02.741416 28033 net.cpp:67] Creating Layer relu1
+I1026 07:53:02.741420 28033 net.cpp:394] relu1 <- pool1
+I1026 07:53:02.741427 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 07:53:02.741433 28033 net.cpp:96] Setting up relu1
+I1026 07:53:02.741438 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:53:02.741444 28033 net.cpp:67] Creating Layer drop1
+I1026 07:53:02.741447 28033 net.cpp:394] drop1 <- pool1
+I1026 07:53:02.741453 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 07:53:02.741459 28033 net.cpp:96] Setting up drop1
+I1026 07:53:02.741463 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:53:02.741471 28033 net.cpp:67] Creating Layer conv2
+I1026 07:53:02.741477 28033 net.cpp:394] conv2 <- pool1
+I1026 07:53:02.741483 28033 net.cpp:356] conv2 -> conv2
+I1026 07:53:02.741489 28033 net.cpp:96] Setting up conv2
+I1026 07:53:02.742045 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 07:53:02.742060 28033 net.cpp:67] Creating Layer pool2
+I1026 07:53:02.742064 28033 net.cpp:394] pool2 <- conv2
+I1026 07:53:02.742072 28033 net.cpp:356] pool2 -> pool2
+I1026 07:53:02.742079 28033 net.cpp:96] Setting up pool2
+I1026 07:53:02.742085 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:53:02.742090 28033 net.cpp:67] Creating Layer relu2
+I1026 07:53:02.742094 28033 net.cpp:394] relu2 <- pool2
+I1026 07:53:02.742101 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 07:53:02.742107 28033 net.cpp:96] Setting up relu2
+I1026 07:53:02.742111 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:53:02.742116 28033 net.cpp:67] Creating Layer drop2
+I1026 07:53:02.742120 28033 net.cpp:394] drop2 <- pool2
+I1026 07:53:02.742125 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 07:53:02.742130 28033 net.cpp:96] Setting up drop2
+I1026 07:53:02.742136 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:53:02.742143 28033 net.cpp:67] Creating Layer conv3
+I1026 07:53:02.742147 28033 net.cpp:394] conv3 <- pool2
+I1026 07:53:02.742153 28033 net.cpp:356] conv3 -> conv3
+I1026 07:53:02.742161 28033 net.cpp:96] Setting up conv3
+I1026 07:53:02.743605 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 07:53:02.743621 28033 net.cpp:67] Creating Layer pool3
+I1026 07:53:02.743625 28033 net.cpp:394] pool3 <- conv3
+I1026 07:53:02.743633 28033 net.cpp:356] pool3 -> pool3
+I1026 07:53:02.743639 28033 net.cpp:96] Setting up pool3
+I1026 07:53:02.743645 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:53:02.743650 28033 net.cpp:67] Creating Layer relu3
+I1026 07:53:02.743654 28033 net.cpp:394] relu3 <- pool3
+I1026 07:53:02.743659 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 07:53:02.743664 28033 net.cpp:96] Setting up relu3
+I1026 07:53:02.743669 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:53:02.743674 28033 net.cpp:67] Creating Layer drop3
+I1026 07:53:02.743677 28033 net.cpp:394] drop3 <- pool3
+I1026 07:53:02.743685 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 07:53:02.743690 28033 net.cpp:96] Setting up drop3
+I1026 07:53:02.743695 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:53:02.743701 28033 net.cpp:67] Creating Layer ip1
+I1026 07:53:02.743705 28033 net.cpp:394] ip1 <- pool3
+I1026 07:53:02.743712 28033 net.cpp:356] ip1 -> ip1
+I1026 07:53:02.743719 28033 net.cpp:96] Setting up ip1
+I1026 07:53:03.199214 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:53:03.199272 28033 net.cpp:67] Creating Layer relu4
+I1026 07:53:03.199280 28033 net.cpp:394] relu4 <- ip1
+I1026 07:53:03.199288 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 07:53:03.199297 28033 net.cpp:96] Setting up relu4
+I1026 07:53:03.199302 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:53:03.199312 28033 net.cpp:67] Creating Layer drop4
+I1026 07:53:03.199316 28033 net.cpp:394] drop4 <- ip1
+I1026 07:53:03.199322 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 07:53:03.199328 28033 net.cpp:96] Setting up drop4
+I1026 07:53:03.199333 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:53:03.199342 28033 net.cpp:67] Creating Layer ip2
+I1026 07:53:03.199345 28033 net.cpp:394] ip2 <- ip1
+I1026 07:53:03.199353 28033 net.cpp:356] ip2 -> ip2
+I1026 07:53:03.199364 28033 net.cpp:96] Setting up ip2
+I1026 07:53:03.208513 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:53:03.208575 28033 net.cpp:67] Creating Layer prob
+I1026 07:53:03.208582 28033 net.cpp:394] prob <- ip2
+I1026 07:53:03.208591 28033 net.cpp:356] prob -> prob
+I1026 07:53:03.208601 28033 net.cpp:96] Setting up prob
+I1026 07:53:03.208611 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:53:03.208616 28033 net.cpp:172] prob does not need backward computation.
+I1026 07:53:03.208619 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 07:53:03.208622 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 07:53:03.208633 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 07:53:03.208637 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 07:53:03.208641 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 07:53:03.208644 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 07:53:03.208647 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 07:53:03.208652 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 07:53:03.208654 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 07:53:03.208658 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 07:53:03.208662 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 07:53:03.208665 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 07:53:03.208668 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 07:53:03.208673 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 07:53:03.208675 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 07:53:03.208678 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 07:53:03.208683 28033 net.cpp:208] This network produces output prob
+I1026 07:53:03.208694 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 07:53:03.208703 28033 net.cpp:219] Network initialization done.
+I1026 07:53:03.208706 28033 net.cpp:220] Memory required for data: 1837200
+I1026 07:54:08.099407 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 07:54:08.099912 28033 net.cpp:358] Input 0 -> data
+I1026 07:54:08.099967 28033 net.cpp:67] Creating Layer conv1
+I1026 07:54:08.099983 28033 net.cpp:394] conv1 <- data
+I1026 07:54:08.100003 28033 net.cpp:356] conv1 -> conv1
+I1026 07:54:08.100026 28033 net.cpp:96] Setting up conv1
+I1026 07:54:08.100092 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 07:54:08.100128 28033 net.cpp:67] Creating Layer pool1
+I1026 07:54:08.100142 28033 net.cpp:394] pool1 <- conv1
+I1026 07:54:08.100157 28033 net.cpp:356] pool1 -> pool1
+I1026 07:54:08.100177 28033 net.cpp:96] Setting up pool1
+I1026 07:54:08.100194 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:54:08.100213 28033 net.cpp:67] Creating Layer relu1
+I1026 07:54:08.100224 28033 net.cpp:394] relu1 <- pool1
+I1026 07:54:08.100239 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 07:54:08.100255 28033 net.cpp:96] Setting up relu1
+I1026 07:54:08.100267 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:54:08.100281 28033 net.cpp:67] Creating Layer drop1
+I1026 07:54:08.100293 28033 net.cpp:394] drop1 <- pool1
+I1026 07:54:08.100307 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 07:54:08.100323 28033 net.cpp:96] Setting up drop1
+I1026 07:54:08.100337 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:54:08.100355 28033 net.cpp:67] Creating Layer conv2
+I1026 07:54:08.100366 28033 net.cpp:394] conv2 <- pool1
+I1026 07:54:08.100383 28033 net.cpp:356] conv2 -> conv2
+I1026 07:54:08.100402 28033 net.cpp:96] Setting up conv2
+I1026 07:54:08.101824 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 07:54:08.101866 28033 net.cpp:67] Creating Layer pool2
+I1026 07:54:08.101879 28033 net.cpp:394] pool2 <- conv2
+I1026 07:54:08.101896 28033 net.cpp:356] pool2 -> pool2
+I1026 07:54:08.101915 28033 net.cpp:96] Setting up pool2
+I1026 07:54:08.101932 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:54:08.101948 28033 net.cpp:67] Creating Layer relu2
+I1026 07:54:08.101958 28033 net.cpp:394] relu2 <- pool2
+I1026 07:54:08.101972 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 07:54:08.101989 28033 net.cpp:96] Setting up relu2
+I1026 07:54:08.101999 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:54:08.102015 28033 net.cpp:67] Creating Layer drop2
+I1026 07:54:08.102026 28033 net.cpp:394] drop2 <- pool2
+I1026 07:54:08.102041 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 07:54:08.102056 28033 net.cpp:96] Setting up drop2
+I1026 07:54:08.102069 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:54:08.102088 28033 net.cpp:67] Creating Layer conv3
+I1026 07:54:08.102100 28033 net.cpp:394] conv3 <- pool2
+I1026 07:54:08.102118 28033 net.cpp:356] conv3 -> conv3
+I1026 07:54:08.102136 28033 net.cpp:96] Setting up conv3
+I1026 07:54:08.105813 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 07:54:08.105854 28033 net.cpp:67] Creating Layer pool3
+I1026 07:54:08.105868 28033 net.cpp:394] pool3 <- conv3
+I1026 07:54:08.105885 28033 net.cpp:356] pool3 -> pool3
+I1026 07:54:08.105904 28033 net.cpp:96] Setting up pool3
+I1026 07:54:08.105919 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:54:08.105936 28033 net.cpp:67] Creating Layer relu3
+I1026 07:54:08.105947 28033 net.cpp:394] relu3 <- pool3
+I1026 07:54:08.105960 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 07:54:08.105976 28033 net.cpp:96] Setting up relu3
+I1026 07:54:08.105988 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:54:08.106003 28033 net.cpp:67] Creating Layer drop3
+I1026 07:54:08.106014 28033 net.cpp:394] drop3 <- pool3
+I1026 07:54:08.106029 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 07:54:08.106045 28033 net.cpp:96] Setting up drop3
+I1026 07:54:08.106058 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:54:08.106076 28033 net.cpp:67] Creating Layer ip1
+I1026 07:54:08.106086 28033 net.cpp:394] ip1 <- pool3
+I1026 07:54:08.106103 28033 net.cpp:356] ip1 -> ip1
+I1026 07:54:08.106130 28033 net.cpp:96] Setting up ip1
+I1026 07:54:08.509495 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:54:08.509557 28033 net.cpp:67] Creating Layer relu4
+I1026 07:54:08.509565 28033 net.cpp:394] relu4 <- ip1
+I1026 07:54:08.509575 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 07:54:08.509585 28033 net.cpp:96] Setting up relu4
+I1026 07:54:08.509591 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:54:08.509599 28033 net.cpp:67] Creating Layer drop4
+I1026 07:54:08.509603 28033 net.cpp:394] drop4 <- ip1
+I1026 07:54:08.509610 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 07:54:08.509616 28033 net.cpp:96] Setting up drop4
+I1026 07:54:08.509623 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:54:08.509634 28033 net.cpp:67] Creating Layer ip2
+I1026 07:54:08.509637 28033 net.cpp:394] ip2 <- ip1
+I1026 07:54:08.509644 28033 net.cpp:356] ip2 -> ip2
+I1026 07:54:08.509659 28033 net.cpp:96] Setting up ip2
+I1026 07:54:08.517292 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:54:08.517359 28033 net.cpp:67] Creating Layer prob
+I1026 07:54:08.517366 28033 net.cpp:394] prob <- ip2
+I1026 07:54:08.517375 28033 net.cpp:356] prob -> prob
+I1026 07:54:08.517387 28033 net.cpp:96] Setting up prob
+I1026 07:54:08.517395 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:54:08.517400 28033 net.cpp:172] prob does not need backward computation.
+I1026 07:54:08.517405 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 07:54:08.517410 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 07:54:08.517413 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 07:54:08.517417 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 07:54:08.517421 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 07:54:08.517426 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 07:54:08.517429 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 07:54:08.517432 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 07:54:08.517436 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 07:54:08.517441 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 07:54:08.517444 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 07:54:08.517448 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 07:54:08.517452 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 07:54:08.517455 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 07:54:08.517459 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 07:54:08.517463 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 07:54:08.517467 28033 net.cpp:208] This network produces output prob
+I1026 07:54:08.517482 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 07:54:08.517493 28033 net.cpp:219] Network initialization done.
+I1026 07:54:08.517496 28033 net.cpp:220] Memory required for data: 1837200
+I1026 07:55:07.121896 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 07:55:07.122628 28033 net.cpp:358] Input 0 -> data
+I1026 07:55:07.122692 28033 net.cpp:67] Creating Layer conv1
+I1026 07:55:07.122709 28033 net.cpp:394] conv1 <- data
+I1026 07:55:07.122728 28033 net.cpp:356] conv1 -> conv1
+I1026 07:55:07.122752 28033 net.cpp:96] Setting up conv1
+I1026 07:55:07.122818 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 07:55:07.122853 28033 net.cpp:67] Creating Layer pool1
+I1026 07:55:07.122867 28033 net.cpp:394] pool1 <- conv1
+I1026 07:55:07.122884 28033 net.cpp:356] pool1 -> pool1
+I1026 07:55:07.122903 28033 net.cpp:96] Setting up pool1
+I1026 07:55:07.122920 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:55:07.122938 28033 net.cpp:67] Creating Layer relu1
+I1026 07:55:07.122951 28033 net.cpp:394] relu1 <- pool1
+I1026 07:55:07.122964 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 07:55:07.122980 28033 net.cpp:96] Setting up relu1
+I1026 07:55:07.122993 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:55:07.123008 28033 net.cpp:67] Creating Layer drop1
+I1026 07:55:07.123020 28033 net.cpp:394] drop1 <- pool1
+I1026 07:55:07.123035 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 07:55:07.123051 28033 net.cpp:96] Setting up drop1
+I1026 07:55:07.123065 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:55:07.123083 28033 net.cpp:67] Creating Layer conv2
+I1026 07:55:07.123095 28033 net.cpp:394] conv2 <- pool1
+I1026 07:55:07.123113 28033 net.cpp:356] conv2 -> conv2
+I1026 07:55:07.123132 28033 net.cpp:96] Setting up conv2
+I1026 07:55:07.124549 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 07:55:07.124588 28033 net.cpp:67] Creating Layer pool2
+I1026 07:55:07.124601 28033 net.cpp:394] pool2 <- conv2
+I1026 07:55:07.124619 28033 net.cpp:356] pool2 -> pool2
+I1026 07:55:07.124639 28033 net.cpp:96] Setting up pool2
+I1026 07:55:07.124655 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:55:07.124670 28033 net.cpp:67] Creating Layer relu2
+I1026 07:55:07.124681 28033 net.cpp:394] relu2 <- pool2
+I1026 07:55:07.124696 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 07:55:07.124711 28033 net.cpp:96] Setting up relu2
+I1026 07:55:07.124723 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:55:07.124738 28033 net.cpp:67] Creating Layer drop2
+I1026 07:55:07.124750 28033 net.cpp:394] drop2 <- pool2
+I1026 07:55:07.124773 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 07:55:07.124790 28033 net.cpp:96] Setting up drop2
+I1026 07:55:07.124802 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:55:07.124822 28033 net.cpp:67] Creating Layer conv3
+I1026 07:55:07.124835 28033 net.cpp:394] conv3 <- pool2
+I1026 07:55:07.124851 28033 net.cpp:356] conv3 -> conv3
+I1026 07:55:07.124871 28033 net.cpp:96] Setting up conv3
+I1026 07:55:07.128501 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 07:55:07.128538 28033 net.cpp:67] Creating Layer pool3
+I1026 07:55:07.128551 28033 net.cpp:394] pool3 <- conv3
+I1026 07:55:07.128567 28033 net.cpp:356] pool3 -> pool3
+I1026 07:55:07.128585 28033 net.cpp:96] Setting up pool3
+I1026 07:55:07.128600 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:55:07.128615 28033 net.cpp:67] Creating Layer relu3
+I1026 07:55:07.128626 28033 net.cpp:394] relu3 <- pool3
+I1026 07:55:07.128641 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 07:55:07.128656 28033 net.cpp:96] Setting up relu3
+I1026 07:55:07.128669 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:55:07.128684 28033 net.cpp:67] Creating Layer drop3
+I1026 07:55:07.128695 28033 net.cpp:394] drop3 <- pool3
+I1026 07:55:07.128710 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 07:55:07.128726 28033 net.cpp:96] Setting up drop3
+I1026 07:55:07.128738 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:55:07.128756 28033 net.cpp:67] Creating Layer ip1
+I1026 07:55:07.128767 28033 net.cpp:394] ip1 <- pool3
+I1026 07:55:07.128783 28033 net.cpp:356] ip1 -> ip1
+I1026 07:55:07.128803 28033 net.cpp:96] Setting up ip1
+I1026 07:55:07.485079 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:55:07.485146 28033 net.cpp:67] Creating Layer relu4
+I1026 07:55:07.485153 28033 net.cpp:394] relu4 <- ip1
+I1026 07:55:07.485164 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 07:55:07.485175 28033 net.cpp:96] Setting up relu4
+I1026 07:55:07.485180 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:55:07.485189 28033 net.cpp:67] Creating Layer drop4
+I1026 07:55:07.485193 28033 net.cpp:394] drop4 <- ip1
+I1026 07:55:07.485200 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 07:55:07.485208 28033 net.cpp:96] Setting up drop4
+I1026 07:55:07.485213 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:55:07.485224 28033 net.cpp:67] Creating Layer ip2
+I1026 07:55:07.485229 28033 net.cpp:394] ip2 <- ip1
+I1026 07:55:07.485236 28033 net.cpp:356] ip2 -> ip2
+I1026 07:55:07.485249 28033 net.cpp:96] Setting up ip2
+I1026 07:55:07.492801 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:55:07.492866 28033 net.cpp:67] Creating Layer prob
+I1026 07:55:07.492873 28033 net.cpp:394] prob <- ip2
+I1026 07:55:07.492883 28033 net.cpp:356] prob -> prob
+I1026 07:55:07.492894 28033 net.cpp:96] Setting up prob
+I1026 07:55:07.492903 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:55:07.492908 28033 net.cpp:172] prob does not need backward computation.
+I1026 07:55:07.492913 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 07:55:07.492916 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 07:55:07.492920 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 07:55:07.492924 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 07:55:07.492928 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 07:55:07.492933 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 07:55:07.492936 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 07:55:07.492940 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 07:55:07.492944 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 07:55:07.492949 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 07:55:07.492952 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 07:55:07.492956 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 07:55:07.492960 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 07:55:07.492964 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 07:55:07.492985 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 07:55:07.492988 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 07:55:07.492992 28033 net.cpp:208] This network produces output prob
+I1026 07:55:07.493007 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 07:55:07.493016 28033 net.cpp:219] Network initialization done.
+I1026 07:55:07.493021 28033 net.cpp:220] Memory required for data: 1837200
+I1026 07:56:06.725103 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 07:56:06.725636 28033 net.cpp:358] Input 0 -> data
+I1026 07:56:06.725685 28033 net.cpp:67] Creating Layer conv1
+I1026 07:56:06.725698 28033 net.cpp:394] conv1 <- data
+I1026 07:56:06.725713 28033 net.cpp:356] conv1 -> conv1
+I1026 07:56:06.725733 28033 net.cpp:96] Setting up conv1
+I1026 07:56:06.725787 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 07:56:06.725817 28033 net.cpp:67] Creating Layer pool1
+I1026 07:56:06.725828 28033 net.cpp:394] pool1 <- conv1
+I1026 07:56:06.725841 28033 net.cpp:356] pool1 -> pool1
+I1026 07:56:06.725857 28033 net.cpp:96] Setting up pool1
+I1026 07:56:06.725872 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:56:06.725886 28033 net.cpp:67] Creating Layer relu1
+I1026 07:56:06.725895 28033 net.cpp:394] relu1 <- pool1
+I1026 07:56:06.725920 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 07:56:06.725934 28033 net.cpp:96] Setting up relu1
+I1026 07:56:06.725945 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:56:06.725957 28033 net.cpp:67] Creating Layer drop1
+I1026 07:56:06.725966 28033 net.cpp:394] drop1 <- pool1
+I1026 07:56:06.725980 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 07:56:06.725992 28033 net.cpp:96] Setting up drop1
+I1026 07:56:06.726003 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:56:06.726018 28033 net.cpp:67] Creating Layer conv2
+I1026 07:56:06.726028 28033 net.cpp:394] conv2 <- pool1
+I1026 07:56:06.726042 28033 net.cpp:356] conv2 -> conv2
+I1026 07:56:06.726057 28033 net.cpp:96] Setting up conv2
+I1026 07:56:06.727192 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 07:56:06.727221 28033 net.cpp:67] Creating Layer pool2
+I1026 07:56:06.727232 28033 net.cpp:394] pool2 <- conv2
+I1026 07:56:06.727246 28033 net.cpp:356] pool2 -> pool2
+I1026 07:56:06.727260 28033 net.cpp:96] Setting up pool2
+I1026 07:56:06.727273 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:56:06.727285 28033 net.cpp:67] Creating Layer relu2
+I1026 07:56:06.727295 28033 net.cpp:394] relu2 <- pool2
+I1026 07:56:06.727306 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 07:56:06.727319 28033 net.cpp:96] Setting up relu2
+I1026 07:56:06.727329 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:56:06.727340 28033 net.cpp:67] Creating Layer drop2
+I1026 07:56:06.727350 28033 net.cpp:394] drop2 <- pool2
+I1026 07:56:06.727362 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 07:56:06.727382 28033 net.cpp:96] Setting up drop2
+I1026 07:56:06.727396 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:56:06.727416 28033 net.cpp:67] Creating Layer conv3
+I1026 07:56:06.727427 28033 net.cpp:394] conv3 <- pool2
+I1026 07:56:06.727443 28033 net.cpp:356] conv3 -> conv3
+I1026 07:56:06.727462 28033 net.cpp:96] Setting up conv3
+I1026 07:56:06.731143 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 07:56:06.731184 28033 net.cpp:67] Creating Layer pool3
+I1026 07:56:06.731199 28033 net.cpp:394] pool3 <- conv3
+I1026 07:56:06.731215 28033 net.cpp:356] pool3 -> pool3
+I1026 07:56:06.731233 28033 net.cpp:96] Setting up pool3
+I1026 07:56:06.731248 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:56:06.731262 28033 net.cpp:67] Creating Layer relu3
+I1026 07:56:06.731274 28033 net.cpp:394] relu3 <- pool3
+I1026 07:56:06.731288 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 07:56:06.731304 28033 net.cpp:96] Setting up relu3
+I1026 07:56:06.731317 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:56:06.731331 28033 net.cpp:67] Creating Layer drop3
+I1026 07:56:06.731343 28033 net.cpp:394] drop3 <- pool3
+I1026 07:56:06.731356 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 07:56:06.731372 28033 net.cpp:96] Setting up drop3
+I1026 07:56:06.731384 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:56:06.731401 28033 net.cpp:67] Creating Layer ip1
+I1026 07:56:06.731412 28033 net.cpp:394] ip1 <- pool3
+I1026 07:56:06.731430 28033 net.cpp:356] ip1 -> ip1
+I1026 07:56:06.731448 28033 net.cpp:96] Setting up ip1
+I1026 07:56:07.136370 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:56:07.136456 28033 net.cpp:67] Creating Layer relu4
+I1026 07:56:07.136466 28033 net.cpp:394] relu4 <- ip1
+I1026 07:56:07.136477 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 07:56:07.136487 28033 net.cpp:96] Setting up relu4
+I1026 07:56:07.136493 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:56:07.136502 28033 net.cpp:67] Creating Layer drop4
+I1026 07:56:07.136507 28033 net.cpp:394] drop4 <- ip1
+I1026 07:56:07.136513 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 07:56:07.136521 28033 net.cpp:96] Setting up drop4
+I1026 07:56:07.136528 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:56:07.136538 28033 net.cpp:67] Creating Layer ip2
+I1026 07:56:07.136543 28033 net.cpp:394] ip2 <- ip1
+I1026 07:56:07.136550 28033 net.cpp:356] ip2 -> ip2
+I1026 07:56:07.136564 28033 net.cpp:96] Setting up ip2
+I1026 07:56:07.144398 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:56:07.144490 28033 net.cpp:67] Creating Layer prob
+I1026 07:56:07.144500 28033 net.cpp:394] prob <- ip2
+I1026 07:56:07.144510 28033 net.cpp:356] prob -> prob
+I1026 07:56:07.144522 28033 net.cpp:96] Setting up prob
+I1026 07:56:07.144531 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:56:07.144536 28033 net.cpp:172] prob does not need backward computation.
+I1026 07:56:07.144539 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 07:56:07.144543 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 07:56:07.144547 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 07:56:07.144551 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 07:56:07.144556 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 07:56:07.144559 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 07:56:07.144564 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 07:56:07.144568 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 07:56:07.144572 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 07:56:07.144577 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 07:56:07.144580 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 07:56:07.144584 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 07:56:07.144588 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 07:56:07.144593 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 07:56:07.144597 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 07:56:07.144600 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 07:56:07.144604 28033 net.cpp:208] This network produces output prob
+I1026 07:56:07.144620 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 07:56:07.144629 28033 net.cpp:219] Network initialization done.
+I1026 07:56:07.144634 28033 net.cpp:220] Memory required for data: 1837200
+I1026 07:57:05.530438 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 07:57:05.530967 28033 net.cpp:358] Input 0 -> data
+I1026 07:57:05.530997 28033 net.cpp:67] Creating Layer conv1
+I1026 07:57:05.531003 28033 net.cpp:394] conv1 <- data
+I1026 07:57:05.531011 28033 net.cpp:356] conv1 -> conv1
+I1026 07:57:05.531021 28033 net.cpp:96] Setting up conv1
+I1026 07:57:05.531052 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 07:57:05.531069 28033 net.cpp:67] Creating Layer pool1
+I1026 07:57:05.531072 28033 net.cpp:394] pool1 <- conv1
+I1026 07:57:05.531078 28033 net.cpp:356] pool1 -> pool1
+I1026 07:57:05.531086 28033 net.cpp:96] Setting up pool1
+I1026 07:57:05.531093 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:57:05.531100 28033 net.cpp:67] Creating Layer relu1
+I1026 07:57:05.531105 28033 net.cpp:394] relu1 <- pool1
+I1026 07:57:05.531110 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 07:57:05.531116 28033 net.cpp:96] Setting up relu1
+I1026 07:57:05.531119 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:57:05.531126 28033 net.cpp:67] Creating Layer drop1
+I1026 07:57:05.531129 28033 net.cpp:394] drop1 <- pool1
+I1026 07:57:05.531134 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 07:57:05.531141 28033 net.cpp:96] Setting up drop1
+I1026 07:57:05.531146 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:57:05.531152 28033 net.cpp:67] Creating Layer conv2
+I1026 07:57:05.531157 28033 net.cpp:394] conv2 <- pool1
+I1026 07:57:05.531162 28033 net.cpp:356] conv2 -> conv2
+I1026 07:57:05.531169 28033 net.cpp:96] Setting up conv2
+I1026 07:57:05.531673 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 07:57:05.531687 28033 net.cpp:67] Creating Layer pool2
+I1026 07:57:05.531692 28033 net.cpp:394] pool2 <- conv2
+I1026 07:57:05.531699 28033 net.cpp:356] pool2 -> pool2
+I1026 07:57:05.531707 28033 net.cpp:96] Setting up pool2
+I1026 07:57:05.531713 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:57:05.531718 28033 net.cpp:67] Creating Layer relu2
+I1026 07:57:05.531721 28033 net.cpp:394] relu2 <- pool2
+I1026 07:57:05.531728 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 07:57:05.531733 28033 net.cpp:96] Setting up relu2
+I1026 07:57:05.531738 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:57:05.531743 28033 net.cpp:67] Creating Layer drop2
+I1026 07:57:05.531746 28033 net.cpp:394] drop2 <- pool2
+I1026 07:57:05.531751 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 07:57:05.531756 28033 net.cpp:96] Setting up drop2
+I1026 07:57:05.531761 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:57:05.531767 28033 net.cpp:67] Creating Layer conv3
+I1026 07:57:05.531772 28033 net.cpp:394] conv3 <- pool2
+I1026 07:57:05.531779 28033 net.cpp:356] conv3 -> conv3
+I1026 07:57:05.531785 28033 net.cpp:96] Setting up conv3
+I1026 07:57:05.533442 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 07:57:05.533464 28033 net.cpp:67] Creating Layer pool3
+I1026 07:57:05.533471 28033 net.cpp:394] pool3 <- conv3
+I1026 07:57:05.533479 28033 net.cpp:356] pool3 -> pool3
+I1026 07:57:05.533489 28033 net.cpp:96] Setting up pool3
+I1026 07:57:05.533498 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:57:05.533505 28033 net.cpp:67] Creating Layer relu3
+I1026 07:57:05.533510 28033 net.cpp:394] relu3 <- pool3
+I1026 07:57:05.533519 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 07:57:05.533526 28033 net.cpp:96] Setting up relu3
+I1026 07:57:05.533537 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:57:05.533545 28033 net.cpp:67] Creating Layer drop3
+I1026 07:57:05.533551 28033 net.cpp:394] drop3 <- pool3
+I1026 07:57:05.533558 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 07:57:05.533566 28033 net.cpp:96] Setting up drop3
+I1026 07:57:05.533573 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:57:05.533582 28033 net.cpp:67] Creating Layer ip1
+I1026 07:57:05.533587 28033 net.cpp:394] ip1 <- pool3
+I1026 07:57:05.533596 28033 net.cpp:356] ip1 -> ip1
+I1026 07:57:05.533607 28033 net.cpp:96] Setting up ip1
+I1026 07:57:05.889264 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:57:05.889328 28033 net.cpp:67] Creating Layer relu4
+I1026 07:57:05.889336 28033 net.cpp:394] relu4 <- ip1
+I1026 07:57:05.889348 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 07:57:05.889359 28033 net.cpp:96] Setting up relu4
+I1026 07:57:05.889364 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:57:05.889374 28033 net.cpp:67] Creating Layer drop4
+I1026 07:57:05.889377 28033 net.cpp:394] drop4 <- ip1
+I1026 07:57:05.889385 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 07:57:05.889392 28033 net.cpp:96] Setting up drop4
+I1026 07:57:05.889399 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:57:05.889410 28033 net.cpp:67] Creating Layer ip2
+I1026 07:57:05.889413 28033 net.cpp:394] ip2 <- ip1
+I1026 07:57:05.889421 28033 net.cpp:356] ip2 -> ip2
+I1026 07:57:05.889436 28033 net.cpp:96] Setting up ip2
+I1026 07:57:05.897323 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:57:05.897385 28033 net.cpp:67] Creating Layer prob
+I1026 07:57:05.897394 28033 net.cpp:394] prob <- ip2
+I1026 07:57:05.897403 28033 net.cpp:356] prob -> prob
+I1026 07:57:05.897414 28033 net.cpp:96] Setting up prob
+I1026 07:57:05.897423 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:57:05.897428 28033 net.cpp:172] prob does not need backward computation.
+I1026 07:57:05.897433 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 07:57:05.897436 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 07:57:05.897440 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 07:57:05.897444 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 07:57:05.897449 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 07:57:05.897452 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 07:57:05.897456 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 07:57:05.897460 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 07:57:05.897464 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 07:57:05.897467 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 07:57:05.897471 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 07:57:05.897475 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 07:57:05.897480 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 07:57:05.897483 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 07:57:05.897487 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 07:57:05.897491 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 07:57:05.897495 28033 net.cpp:208] This network produces output prob
+I1026 07:57:05.897512 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 07:57:05.897521 28033 net.cpp:219] Network initialization done.
+I1026 07:57:05.897526 28033 net.cpp:220] Memory required for data: 1837200
+I1026 07:58:04.926786 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 07:58:04.927359 28033 net.cpp:358] Input 0 -> data
+I1026 07:58:04.927412 28033 net.cpp:67] Creating Layer conv1
+I1026 07:58:04.927428 28033 net.cpp:394] conv1 <- data
+I1026 07:58:04.927446 28033 net.cpp:356] conv1 -> conv1
+I1026 07:58:04.927470 28033 net.cpp:96] Setting up conv1
+I1026 07:58:04.927534 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 07:58:04.927569 28033 net.cpp:67] Creating Layer pool1
+I1026 07:58:04.927582 28033 net.cpp:394] pool1 <- conv1
+I1026 07:58:04.927597 28033 net.cpp:356] pool1 -> pool1
+I1026 07:58:04.927618 28033 net.cpp:96] Setting up pool1
+I1026 07:58:04.927634 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:58:04.927652 28033 net.cpp:67] Creating Layer relu1
+I1026 07:58:04.927664 28033 net.cpp:394] relu1 <- pool1
+I1026 07:58:04.927680 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 07:58:04.927695 28033 net.cpp:96] Setting up relu1
+I1026 07:58:04.927707 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:58:04.927722 28033 net.cpp:67] Creating Layer drop1
+I1026 07:58:04.927733 28033 net.cpp:394] drop1 <- pool1
+I1026 07:58:04.927747 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 07:58:04.927763 28033 net.cpp:96] Setting up drop1
+I1026 07:58:04.927777 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:58:04.927794 28033 net.cpp:67] Creating Layer conv2
+I1026 07:58:04.927806 28033 net.cpp:394] conv2 <- pool1
+I1026 07:58:04.927822 28033 net.cpp:356] conv2 -> conv2
+I1026 07:58:04.927841 28033 net.cpp:96] Setting up conv2
+I1026 07:58:04.929263 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 07:58:04.929303 28033 net.cpp:67] Creating Layer pool2
+I1026 07:58:04.929316 28033 net.cpp:394] pool2 <- conv2
+I1026 07:58:04.929332 28033 net.cpp:356] pool2 -> pool2
+I1026 07:58:04.929352 28033 net.cpp:96] Setting up pool2
+I1026 07:58:04.929376 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:58:04.929393 28033 net.cpp:67] Creating Layer relu2
+I1026 07:58:04.929404 28033 net.cpp:394] relu2 <- pool2
+I1026 07:58:04.929419 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 07:58:04.929435 28033 net.cpp:96] Setting up relu2
+I1026 07:58:04.929446 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:58:04.929461 28033 net.cpp:67] Creating Layer drop2
+I1026 07:58:04.929471 28033 net.cpp:394] drop2 <- pool2
+I1026 07:58:04.929486 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 07:58:04.929502 28033 net.cpp:96] Setting up drop2
+I1026 07:58:04.929513 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:58:04.929533 28033 net.cpp:67] Creating Layer conv3
+I1026 07:58:04.929544 28033 net.cpp:394] conv3 <- pool2
+I1026 07:58:04.929560 28033 net.cpp:356] conv3 -> conv3
+I1026 07:58:04.929579 28033 net.cpp:96] Setting up conv3
+I1026 07:58:04.933135 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 07:58:04.933169 28033 net.cpp:67] Creating Layer pool3
+I1026 07:58:04.933181 28033 net.cpp:394] pool3 <- conv3
+I1026 07:58:04.933192 28033 net.cpp:356] pool3 -> pool3
+I1026 07:58:04.933207 28033 net.cpp:96] Setting up pool3
+I1026 07:58:04.933218 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:58:04.933230 28033 net.cpp:67] Creating Layer relu3
+I1026 07:58:04.933238 28033 net.cpp:394] relu3 <- pool3
+I1026 07:58:04.933249 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 07:58:04.933261 28033 net.cpp:96] Setting up relu3
+I1026 07:58:04.933270 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:58:04.933281 28033 net.cpp:67] Creating Layer drop3
+I1026 07:58:04.933290 28033 net.cpp:394] drop3 <- pool3
+I1026 07:58:04.933301 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 07:58:04.933313 28033 net.cpp:96] Setting up drop3
+I1026 07:58:04.933322 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:58:04.933336 28033 net.cpp:67] Creating Layer ip1
+I1026 07:58:04.933344 28033 net.cpp:394] ip1 <- pool3
+I1026 07:58:04.933357 28033 net.cpp:356] ip1 -> ip1
+I1026 07:58:04.933372 28033 net.cpp:96] Setting up ip1
+I1026 07:58:05.354267 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:58:05.354331 28033 net.cpp:67] Creating Layer relu4
+I1026 07:58:05.354337 28033 net.cpp:394] relu4 <- ip1
+I1026 07:58:05.354348 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 07:58:05.354358 28033 net.cpp:96] Setting up relu4
+I1026 07:58:05.354364 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:58:05.354372 28033 net.cpp:67] Creating Layer drop4
+I1026 07:58:05.354377 28033 net.cpp:394] drop4 <- ip1
+I1026 07:58:05.354383 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 07:58:05.354390 28033 net.cpp:96] Setting up drop4
+I1026 07:58:05.354396 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:58:05.354406 28033 net.cpp:67] Creating Layer ip2
+I1026 07:58:05.354411 28033 net.cpp:394] ip2 <- ip1
+I1026 07:58:05.354418 28033 net.cpp:356] ip2 -> ip2
+I1026 07:58:05.354432 28033 net.cpp:96] Setting up ip2
+I1026 07:58:05.362059 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:58:05.362124 28033 net.cpp:67] Creating Layer prob
+I1026 07:58:05.362133 28033 net.cpp:394] prob <- ip2
+I1026 07:58:05.362143 28033 net.cpp:356] prob -> prob
+I1026 07:58:05.362154 28033 net.cpp:96] Setting up prob
+I1026 07:58:05.362164 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:58:05.362169 28033 net.cpp:172] prob does not need backward computation.
+I1026 07:58:05.362172 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 07:58:05.362176 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 07:58:05.362180 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 07:58:05.362185 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 07:58:05.362188 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 07:58:05.362192 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 07:58:05.362196 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 07:58:05.362200 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 07:58:05.362215 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 07:58:05.362220 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 07:58:05.362223 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 07:58:05.362231 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 07:58:05.362236 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 07:58:05.362239 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 07:58:05.362242 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 07:58:05.362246 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 07:58:05.362251 28033 net.cpp:208] This network produces output prob
+I1026 07:58:05.362265 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 07:58:05.362274 28033 net.cpp:219] Network initialization done.
+I1026 07:58:05.362278 28033 net.cpp:220] Memory required for data: 1837200
+I1026 07:59:02.959122 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 07:59:02.959656 28033 net.cpp:358] Input 0 -> data
+I1026 07:59:02.959710 28033 net.cpp:67] Creating Layer conv1
+I1026 07:59:02.959727 28033 net.cpp:394] conv1 <- data
+I1026 07:59:02.959744 28033 net.cpp:356] conv1 -> conv1
+I1026 07:59:02.959769 28033 net.cpp:96] Setting up conv1
+I1026 07:59:02.959846 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 07:59:02.959882 28033 net.cpp:67] Creating Layer pool1
+I1026 07:59:02.959895 28033 net.cpp:394] pool1 <- conv1
+I1026 07:59:02.959913 28033 net.cpp:356] pool1 -> pool1
+I1026 07:59:02.959933 28033 net.cpp:96] Setting up pool1
+I1026 07:59:02.959949 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:59:02.959967 28033 net.cpp:67] Creating Layer relu1
+I1026 07:59:02.959980 28033 net.cpp:394] relu1 <- pool1
+I1026 07:59:02.959993 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 07:59:02.960011 28033 net.cpp:96] Setting up relu1
+I1026 07:59:02.960023 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:59:02.960038 28033 net.cpp:67] Creating Layer drop1
+I1026 07:59:02.960050 28033 net.cpp:394] drop1 <- pool1
+I1026 07:59:02.960065 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 07:59:02.960083 28033 net.cpp:96] Setting up drop1
+I1026 07:59:02.960096 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 07:59:02.960114 28033 net.cpp:67] Creating Layer conv2
+I1026 07:59:02.960126 28033 net.cpp:394] conv2 <- pool1
+I1026 07:59:02.960142 28033 net.cpp:356] conv2 -> conv2
+I1026 07:59:02.960162 28033 net.cpp:96] Setting up conv2
+I1026 07:59:02.960923 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 07:59:02.960942 28033 net.cpp:67] Creating Layer pool2
+I1026 07:59:02.960947 28033 net.cpp:394] pool2 <- conv2
+I1026 07:59:02.960953 28033 net.cpp:356] pool2 -> pool2
+I1026 07:59:02.960963 28033 net.cpp:96] Setting up pool2
+I1026 07:59:02.960968 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:59:02.960973 28033 net.cpp:67] Creating Layer relu2
+I1026 07:59:02.960978 28033 net.cpp:394] relu2 <- pool2
+I1026 07:59:02.960983 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 07:59:02.960988 28033 net.cpp:96] Setting up relu2
+I1026 07:59:02.960994 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:59:02.960999 28033 net.cpp:67] Creating Layer drop2
+I1026 07:59:02.961002 28033 net.cpp:394] drop2 <- pool2
+I1026 07:59:02.961007 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 07:59:02.961014 28033 net.cpp:96] Setting up drop2
+I1026 07:59:02.961019 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 07:59:02.961026 28033 net.cpp:67] Creating Layer conv3
+I1026 07:59:02.961030 28033 net.cpp:394] conv3 <- pool2
+I1026 07:59:02.961036 28033 net.cpp:356] conv3 -> conv3
+I1026 07:59:02.961043 28033 net.cpp:96] Setting up conv3
+I1026 07:59:02.962364 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 07:59:02.962379 28033 net.cpp:67] Creating Layer pool3
+I1026 07:59:02.962383 28033 net.cpp:394] pool3 <- conv3
+I1026 07:59:02.962389 28033 net.cpp:356] pool3 -> pool3
+I1026 07:59:02.962396 28033 net.cpp:96] Setting up pool3
+I1026 07:59:02.962401 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:59:02.962407 28033 net.cpp:67] Creating Layer relu3
+I1026 07:59:02.962411 28033 net.cpp:394] relu3 <- pool3
+I1026 07:59:02.962416 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 07:59:02.962422 28033 net.cpp:96] Setting up relu3
+I1026 07:59:02.962426 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:59:02.962432 28033 net.cpp:67] Creating Layer drop3
+I1026 07:59:02.962436 28033 net.cpp:394] drop3 <- pool3
+I1026 07:59:02.962441 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 07:59:02.962447 28033 net.cpp:96] Setting up drop3
+I1026 07:59:02.962452 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 07:59:02.962458 28033 net.cpp:67] Creating Layer ip1
+I1026 07:59:02.962462 28033 net.cpp:394] ip1 <- pool3
+I1026 07:59:02.962469 28033 net.cpp:356] ip1 -> ip1
+I1026 07:59:02.962476 28033 net.cpp:96] Setting up ip1
+I1026 07:59:03.309831 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:59:03.309897 28033 net.cpp:67] Creating Layer relu4
+I1026 07:59:03.309905 28033 net.cpp:394] relu4 <- ip1
+I1026 07:59:03.309916 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 07:59:03.309926 28033 net.cpp:96] Setting up relu4
+I1026 07:59:03.309931 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:59:03.309939 28033 net.cpp:67] Creating Layer drop4
+I1026 07:59:03.309955 28033 net.cpp:394] drop4 <- ip1
+I1026 07:59:03.309962 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 07:59:03.309970 28033 net.cpp:96] Setting up drop4
+I1026 07:59:03.309976 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 07:59:03.309986 28033 net.cpp:67] Creating Layer ip2
+I1026 07:59:03.309990 28033 net.cpp:394] ip2 <- ip1
+I1026 07:59:03.309999 28033 net.cpp:356] ip2 -> ip2
+I1026 07:59:03.310014 28033 net.cpp:96] Setting up ip2
+I1026 07:59:03.317631 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:59:03.317692 28033 net.cpp:67] Creating Layer prob
+I1026 07:59:03.317698 28033 net.cpp:394] prob <- ip2
+I1026 07:59:03.317708 28033 net.cpp:356] prob -> prob
+I1026 07:59:03.317719 28033 net.cpp:96] Setting up prob
+I1026 07:59:03.317728 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 07:59:03.317734 28033 net.cpp:172] prob does not need backward computation.
+I1026 07:59:03.317737 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 07:59:03.317741 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 07:59:03.317745 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 07:59:03.317749 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 07:59:03.317754 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 07:59:03.317757 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 07:59:03.317760 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 07:59:03.317764 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 07:59:03.317769 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 07:59:03.317772 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 07:59:03.317776 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 07:59:03.317780 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 07:59:03.317785 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 07:59:03.317788 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 07:59:03.317792 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 07:59:03.317796 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 07:59:03.317800 28033 net.cpp:208] This network produces output prob
+I1026 07:59:03.317814 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 07:59:03.317824 28033 net.cpp:219] Network initialization done.
+I1026 07:59:03.317828 28033 net.cpp:220] Memory required for data: 1837200
+I1026 08:00:01.821044 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 08:00:01.821635 28033 net.cpp:358] Input 0 -> data
+I1026 08:00:01.821691 28033 net.cpp:67] Creating Layer conv1
+I1026 08:00:01.821707 28033 net.cpp:394] conv1 <- data
+I1026 08:00:01.821725 28033 net.cpp:356] conv1 -> conv1
+I1026 08:00:01.821748 28033 net.cpp:96] Setting up conv1
+I1026 08:00:01.821810 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 08:00:01.821846 28033 net.cpp:67] Creating Layer pool1
+I1026 08:00:01.821858 28033 net.cpp:394] pool1 <- conv1
+I1026 08:00:01.821874 28033 net.cpp:356] pool1 -> pool1
+I1026 08:00:01.821893 28033 net.cpp:96] Setting up pool1
+I1026 08:00:01.821912 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 08:00:01.821928 28033 net.cpp:67] Creating Layer relu1
+I1026 08:00:01.821940 28033 net.cpp:394] relu1 <- pool1
+I1026 08:00:01.821955 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 08:00:01.821971 28033 net.cpp:96] Setting up relu1
+I1026 08:00:01.821984 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 08:00:01.821998 28033 net.cpp:67] Creating Layer drop1
+I1026 08:00:01.822010 28033 net.cpp:394] drop1 <- pool1
+I1026 08:00:01.822026 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 08:00:01.822041 28033 net.cpp:96] Setting up drop1
+I1026 08:00:01.822054 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 08:00:01.822072 28033 net.cpp:67] Creating Layer conv2
+I1026 08:00:01.822084 28033 net.cpp:394] conv2 <- pool1
+I1026 08:00:01.822100 28033 net.cpp:356] conv2 -> conv2
+I1026 08:00:01.822119 28033 net.cpp:96] Setting up conv2
+I1026 08:00:01.823500 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 08:00:01.823534 28033 net.cpp:67] Creating Layer pool2
+I1026 08:00:01.823547 28033 net.cpp:394] pool2 <- conv2
+I1026 08:00:01.823564 28033 net.cpp:356] pool2 -> pool2
+I1026 08:00:01.823583 28033 net.cpp:96] Setting up pool2
+I1026 08:00:01.823599 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 08:00:01.823614 28033 net.cpp:67] Creating Layer relu2
+I1026 08:00:01.823626 28033 net.cpp:394] relu2 <- pool2
+I1026 08:00:01.823642 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 08:00:01.823657 28033 net.cpp:96] Setting up relu2
+I1026 08:00:01.823669 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 08:00:01.823683 28033 net.cpp:67] Creating Layer drop2
+I1026 08:00:01.823694 28033 net.cpp:394] drop2 <- pool2
+I1026 08:00:01.823709 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 08:00:01.823725 28033 net.cpp:96] Setting up drop2
+I1026 08:00:01.823737 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 08:00:01.823755 28033 net.cpp:67] Creating Layer conv3
+I1026 08:00:01.823767 28033 net.cpp:394] conv3 <- pool2
+I1026 08:00:01.823783 28033 net.cpp:356] conv3 -> conv3
+I1026 08:00:01.823802 28033 net.cpp:96] Setting up conv3
+I1026 08:00:01.827497 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 08:00:01.827538 28033 net.cpp:67] Creating Layer pool3
+I1026 08:00:01.827559 28033 net.cpp:394] pool3 <- conv3
+I1026 08:00:01.827576 28033 net.cpp:356] pool3 -> pool3
+I1026 08:00:01.827595 28033 net.cpp:96] Setting up pool3
+I1026 08:00:01.827610 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 08:00:01.827625 28033 net.cpp:67] Creating Layer relu3
+I1026 08:00:01.827637 28033 net.cpp:394] relu3 <- pool3
+I1026 08:00:01.827651 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 08:00:01.827667 28033 net.cpp:96] Setting up relu3
+I1026 08:00:01.827678 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 08:00:01.827693 28033 net.cpp:67] Creating Layer drop3
+I1026 08:00:01.827704 28033 net.cpp:394] drop3 <- pool3
+I1026 08:00:01.827719 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 08:00:01.827735 28033 net.cpp:96] Setting up drop3
+I1026 08:00:01.827747 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 08:00:01.827764 28033 net.cpp:67] Creating Layer ip1
+I1026 08:00:01.827775 28033 net.cpp:394] ip1 <- pool3
+I1026 08:00:01.827792 28033 net.cpp:356] ip1 -> ip1
+I1026 08:00:01.827811 28033 net.cpp:96] Setting up ip1
+I1026 08:00:02.258960 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 08:00:02.259021 28033 net.cpp:67] Creating Layer relu4
+I1026 08:00:02.259029 28033 net.cpp:394] relu4 <- ip1
+I1026 08:00:02.259040 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 08:00:02.259052 28033 net.cpp:96] Setting up relu4
+I1026 08:00:02.259057 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 08:00:02.259065 28033 net.cpp:67] Creating Layer drop4
+I1026 08:00:02.259070 28033 net.cpp:394] drop4 <- ip1
+I1026 08:00:02.259078 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 08:00:02.259084 28033 net.cpp:96] Setting up drop4
+I1026 08:00:02.259089 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 08:00:02.259100 28033 net.cpp:67] Creating Layer ip2
+I1026 08:00:02.259104 28033 net.cpp:394] ip2 <- ip1
+I1026 08:00:02.259112 28033 net.cpp:356] ip2 -> ip2
+I1026 08:00:02.259125 28033 net.cpp:96] Setting up ip2
+I1026 08:00:02.266690 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 08:00:02.266748 28033 net.cpp:67] Creating Layer prob
+I1026 08:00:02.266757 28033 net.cpp:394] prob <- ip2
+I1026 08:00:02.266765 28033 net.cpp:356] prob -> prob
+I1026 08:00:02.266777 28033 net.cpp:96] Setting up prob
+I1026 08:00:02.266785 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 08:00:02.266790 28033 net.cpp:172] prob does not need backward computation.
+I1026 08:00:02.266794 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 08:00:02.266798 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 08:00:02.266803 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 08:00:02.266806 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 08:00:02.266810 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 08:00:02.266813 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 08:00:02.266818 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 08:00:02.266821 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 08:00:02.266825 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 08:00:02.266829 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 08:00:02.266832 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 08:00:02.266836 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 08:00:02.266840 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 08:00:02.266844 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 08:00:02.266847 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 08:00:02.266851 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 08:00:02.266855 28033 net.cpp:208] This network produces output prob
+I1026 08:00:02.266870 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 08:00:02.266880 28033 net.cpp:219] Network initialization done.
+I1026 08:00:02.266883 28033 net.cpp:220] Memory required for data: 1837200
+I1026 08:01:00.642014 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 08:01:00.642495 28033 net.cpp:358] Input 0 -> data
+I1026 08:01:00.642524 28033 net.cpp:67] Creating Layer conv1
+I1026 08:01:00.642530 28033 net.cpp:394] conv1 <- data
+I1026 08:01:00.642539 28033 net.cpp:356] conv1 -> conv1
+I1026 08:01:00.642549 28033 net.cpp:96] Setting up conv1
+I1026 08:01:00.642578 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 08:01:00.642593 28033 net.cpp:67] Creating Layer pool1
+I1026 08:01:00.642598 28033 net.cpp:394] pool1 <- conv1
+I1026 08:01:00.642604 28033 net.cpp:356] pool1 -> pool1
+I1026 08:01:00.642611 28033 net.cpp:96] Setting up pool1
+I1026 08:01:00.642618 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 08:01:00.642626 28033 net.cpp:67] Creating Layer relu1
+I1026 08:01:00.642629 28033 net.cpp:394] relu1 <- pool1
+I1026 08:01:00.642634 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 08:01:00.642640 28033 net.cpp:96] Setting up relu1
+I1026 08:01:00.642645 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 08:01:00.642650 28033 net.cpp:67] Creating Layer drop1
+I1026 08:01:00.642654 28033 net.cpp:394] drop1 <- pool1
+I1026 08:01:00.642660 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 08:01:00.642665 28033 net.cpp:96] Setting up drop1
+I1026 08:01:00.642670 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 08:01:00.642685 28033 net.cpp:67] Creating Layer conv2
+I1026 08:01:00.642690 28033 net.cpp:394] conv2 <- pool1
+I1026 08:01:00.642696 28033 net.cpp:356] conv2 -> conv2
+I1026 08:01:00.642704 28033 net.cpp:96] Setting up conv2
+I1026 08:01:00.643204 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 08:01:00.643218 28033 net.cpp:67] Creating Layer pool2
+I1026 08:01:00.643224 28033 net.cpp:394] pool2 <- conv2
+I1026 08:01:00.643229 28033 net.cpp:356] pool2 -> pool2
+I1026 08:01:00.643236 28033 net.cpp:96] Setting up pool2
+I1026 08:01:00.643242 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 08:01:00.643249 28033 net.cpp:67] Creating Layer relu2
+I1026 08:01:00.643251 28033 net.cpp:394] relu2 <- pool2
+I1026 08:01:00.643257 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 08:01:00.643262 28033 net.cpp:96] Setting up relu2
+I1026 08:01:00.643266 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 08:01:00.643271 28033 net.cpp:67] Creating Layer drop2
+I1026 08:01:00.643275 28033 net.cpp:394] drop2 <- pool2
+I1026 08:01:00.643280 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 08:01:00.643286 28033 net.cpp:96] Setting up drop2
+I1026 08:01:00.643290 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 08:01:00.643297 28033 net.cpp:67] Creating Layer conv3
+I1026 08:01:00.643302 28033 net.cpp:394] conv3 <- pool2
+I1026 08:01:00.643308 28033 net.cpp:356] conv3 -> conv3
+I1026 08:01:00.643316 28033 net.cpp:96] Setting up conv3
+I1026 08:01:00.644657 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 08:01:00.644675 28033 net.cpp:67] Creating Layer pool3
+I1026 08:01:00.644680 28033 net.cpp:394] pool3 <- conv3
+I1026 08:01:00.644685 28033 net.cpp:356] pool3 -> pool3
+I1026 08:01:00.644692 28033 net.cpp:96] Setting up pool3
+I1026 08:01:00.644697 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 08:01:00.644703 28033 net.cpp:67] Creating Layer relu3
+I1026 08:01:00.644707 28033 net.cpp:394] relu3 <- pool3
+I1026 08:01:00.644712 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 08:01:00.644718 28033 net.cpp:96] Setting up relu3
+I1026 08:01:00.644722 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 08:01:00.644727 28033 net.cpp:67] Creating Layer drop3
+I1026 08:01:00.644731 28033 net.cpp:394] drop3 <- pool3
+I1026 08:01:00.644737 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 08:01:00.644742 28033 net.cpp:96] Setting up drop3
+I1026 08:01:00.644747 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 08:01:00.644753 28033 net.cpp:67] Creating Layer ip1
+I1026 08:01:00.644757 28033 net.cpp:394] ip1 <- pool3
+I1026 08:01:00.644764 28033 net.cpp:356] ip1 -> ip1
+I1026 08:01:00.644772 28033 net.cpp:96] Setting up ip1
+I1026 08:01:00.993160 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 08:01:00.993221 28033 net.cpp:67] Creating Layer relu4
+I1026 08:01:00.993229 28033 net.cpp:394] relu4 <- ip1
+I1026 08:01:00.993239 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 08:01:00.993249 28033 net.cpp:96] Setting up relu4
+I1026 08:01:00.993254 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 08:01:00.993263 28033 net.cpp:67] Creating Layer drop4
+I1026 08:01:00.993268 28033 net.cpp:394] drop4 <- ip1
+I1026 08:01:00.993274 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 08:01:00.993281 28033 net.cpp:96] Setting up drop4
+I1026 08:01:00.993288 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 08:01:00.993296 28033 net.cpp:67] Creating Layer ip2
+I1026 08:01:00.993301 28033 net.cpp:394] ip2 <- ip1
+I1026 08:01:00.993309 28033 net.cpp:356] ip2 -> ip2
+I1026 08:01:00.993322 28033 net.cpp:96] Setting up ip2
+I1026 08:01:01.000895 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 08:01:01.000952 28033 net.cpp:67] Creating Layer prob
+I1026 08:01:01.000959 28033 net.cpp:394] prob <- ip2
+I1026 08:01:01.000969 28033 net.cpp:356] prob -> prob
+I1026 08:01:01.000980 28033 net.cpp:96] Setting up prob
+I1026 08:01:01.000988 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 08:01:01.000993 28033 net.cpp:172] prob does not need backward computation.
+I1026 08:01:01.000998 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 08:01:01.001011 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 08:01:01.001016 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 08:01:01.001020 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 08:01:01.001024 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 08:01:01.001029 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 08:01:01.001032 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 08:01:01.001035 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 08:01:01.001039 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 08:01:01.001044 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 08:01:01.001047 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 08:01:01.001051 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 08:01:01.001055 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 08:01:01.001058 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 08:01:01.001062 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 08:01:01.001066 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 08:01:01.001070 28033 net.cpp:208] This network produces output prob
+I1026 08:01:01.001085 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 08:01:01.001094 28033 net.cpp:219] Network initialization done.
+I1026 08:01:01.001098 28033 net.cpp:220] Memory required for data: 1837200
+I1026 08:01:59.128957 28033 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  top: "prob"
+  name: "prob"
+  type: SOFTMAX
+}
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 50
+input_dim: 180
+I1026 08:01:59.129525 28033 net.cpp:358] Input 0 -> data
+I1026 08:01:59.129573 28033 net.cpp:67] Creating Layer conv1
+I1026 08:01:59.129586 28033 net.cpp:394] conv1 <- data
+I1026 08:01:59.129601 28033 net.cpp:356] conv1 -> conv1
+I1026 08:01:59.129622 28033 net.cpp:96] Setting up conv1
+I1026 08:01:59.129676 28033 net.cpp:103] Top shape: 1 48 25 90 (108000)
+I1026 08:01:59.129706 28033 net.cpp:67] Creating Layer pool1
+I1026 08:01:59.129717 28033 net.cpp:394] pool1 <- conv1
+I1026 08:01:59.129730 28033 net.cpp:356] pool1 -> pool1
+I1026 08:01:59.129746 28033 net.cpp:96] Setting up pool1
+I1026 08:01:59.129760 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 08:01:59.129776 28033 net.cpp:67] Creating Layer relu1
+I1026 08:01:59.129784 28033 net.cpp:394] relu1 <- pool1
+I1026 08:01:59.129796 28033 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 08:01:59.129809 28033 net.cpp:96] Setting up relu1
+I1026 08:01:59.129819 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 08:01:59.129832 28033 net.cpp:67] Creating Layer drop1
+I1026 08:01:59.129842 28033 net.cpp:394] drop1 <- pool1
+I1026 08:01:59.129853 28033 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 08:01:59.129868 28033 net.cpp:96] Setting up drop1
+I1026 08:01:59.129878 28033 net.cpp:103] Top shape: 1 48 13 45 (28080)
+I1026 08:01:59.129894 28033 net.cpp:67] Creating Layer conv2
+I1026 08:01:59.129904 28033 net.cpp:394] conv2 <- pool1
+I1026 08:01:59.129917 28033 net.cpp:356] conv2 -> conv2
+I1026 08:01:59.129932 28033 net.cpp:96] Setting up conv2
+I1026 08:01:59.131063 28033 net.cpp:103] Top shape: 1 64 13 45 (37440)
+I1026 08:01:59.131091 28033 net.cpp:67] Creating Layer pool2
+I1026 08:01:59.131103 28033 net.cpp:394] pool2 <- conv2
+I1026 08:01:59.131116 28033 net.cpp:356] pool2 -> pool2
+I1026 08:01:59.131132 28033 net.cpp:96] Setting up pool2
+I1026 08:01:59.131145 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 08:01:59.131157 28033 net.cpp:67] Creating Layer relu2
+I1026 08:01:59.131166 28033 net.cpp:394] relu2 <- pool2
+I1026 08:01:59.131178 28033 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 08:01:59.131191 28033 net.cpp:96] Setting up relu2
+I1026 08:01:59.131201 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 08:01:59.131212 28033 net.cpp:67] Creating Layer drop2
+I1026 08:01:59.131222 28033 net.cpp:394] drop2 <- pool2
+I1026 08:01:59.131242 28033 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 08:01:59.131258 28033 net.cpp:96] Setting up drop2
+I1026 08:01:59.131271 28033 net.cpp:103] Top shape: 1 64 12 44 (33792)
+I1026 08:01:59.131290 28033 net.cpp:67] Creating Layer conv3
+I1026 08:01:59.131302 28033 net.cpp:394] conv3 <- pool2
+I1026 08:01:59.131319 28033 net.cpp:356] conv3 -> conv3
+I1026 08:01:59.131337 28033 net.cpp:96] Setting up conv3
+I1026 08:01:59.135020 28033 net.cpp:103] Top shape: 1 128 12 44 (67584)
+I1026 08:01:59.135059 28033 net.cpp:67] Creating Layer pool3
+I1026 08:01:59.135073 28033 net.cpp:394] pool3 <- conv3
+I1026 08:01:59.135089 28033 net.cpp:356] pool3 -> pool3
+I1026 08:01:59.135108 28033 net.cpp:96] Setting up pool3
+I1026 08:01:59.135123 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 08:01:59.135138 28033 net.cpp:67] Creating Layer relu3
+I1026 08:01:59.135150 28033 net.cpp:394] relu3 <- pool3
+I1026 08:01:59.135165 28033 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 08:01:59.135180 28033 net.cpp:96] Setting up relu3
+I1026 08:01:59.135192 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 08:01:59.135207 28033 net.cpp:67] Creating Layer drop3
+I1026 08:01:59.135218 28033 net.cpp:394] drop3 <- pool3
+I1026 08:01:59.135231 28033 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 08:01:59.135236 28033 net.cpp:96] Setting up drop3
+I1026 08:01:59.135241 28033 net.cpp:103] Top shape: 1 128 6 22 (16896)
+I1026 08:01:59.135248 28033 net.cpp:67] Creating Layer ip1
+I1026 08:01:59.135252 28033 net.cpp:394] ip1 <- pool3
+I1026 08:01:59.135262 28033 net.cpp:356] ip1 -> ip1
+I1026 08:01:59.135270 28033 net.cpp:96] Setting up ip1
+I1026 08:01:59.559453 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 08:01:59.559516 28033 net.cpp:67] Creating Layer relu4
+I1026 08:01:59.559525 28033 net.cpp:394] relu4 <- ip1
+I1026 08:01:59.559535 28033 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 08:01:59.559545 28033 net.cpp:96] Setting up relu4
+I1026 08:01:59.559550 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 08:01:59.559558 28033 net.cpp:67] Creating Layer drop4
+I1026 08:01:59.559562 28033 net.cpp:394] drop4 <- ip1
+I1026 08:01:59.559571 28033 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 08:01:59.559577 28033 net.cpp:96] Setting up drop4
+I1026 08:01:59.559583 28033 net.cpp:103] Top shape: 1 3072 1 1 (3072)
+I1026 08:01:59.559593 28033 net.cpp:67] Creating Layer ip2
+I1026 08:01:59.559597 28033 net.cpp:394] ip2 <- ip1
+I1026 08:01:59.559605 28033 net.cpp:356] ip2 -> ip2
+I1026 08:01:59.559619 28033 net.cpp:96] Setting up ip2
+I1026 08:01:59.567167 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 08:01:59.567225 28033 net.cpp:67] Creating Layer prob
+I1026 08:01:59.567234 28033 net.cpp:394] prob <- ip2
+I1026 08:01:59.567244 28033 net.cpp:356] prob -> prob
+I1026 08:01:59.567253 28033 net.cpp:96] Setting up prob
+I1026 08:01:59.567262 28033 net.cpp:103] Top shape: 1 378 1 1 (378)
+I1026 08:01:59.567266 28033 net.cpp:172] prob does not need backward computation.
+I1026 08:01:59.567271 28033 net.cpp:172] ip2 does not need backward computation.
+I1026 08:01:59.567275 28033 net.cpp:172] drop4 does not need backward computation.
+I1026 08:01:59.567278 28033 net.cpp:172] relu4 does not need backward computation.
+I1026 08:01:59.567282 28033 net.cpp:172] ip1 does not need backward computation.
+I1026 08:01:59.567286 28033 net.cpp:172] drop3 does not need backward computation.
+I1026 08:01:59.567291 28033 net.cpp:172] relu3 does not need backward computation.
+I1026 08:01:59.567294 28033 net.cpp:172] pool3 does not need backward computation.
+I1026 08:01:59.567298 28033 net.cpp:172] conv3 does not need backward computation.
+I1026 08:01:59.567301 28033 net.cpp:172] drop2 does not need backward computation.
+I1026 08:01:59.567306 28033 net.cpp:172] relu2 does not need backward computation.
+I1026 08:01:59.567309 28033 net.cpp:172] pool2 does not need backward computation.
+I1026 08:01:59.567313 28033 net.cpp:172] conv2 does not need backward computation.
+I1026 08:01:59.567317 28033 net.cpp:172] drop1 does not need backward computation.
+I1026 08:01:59.567322 28033 net.cpp:172] relu1 does not need backward computation.
+I1026 08:01:59.567324 28033 net.cpp:172] pool1 does not need backward computation.
+I1026 08:01:59.567328 28033 net.cpp:172] conv1 does not need backward computation.
+I1026 08:01:59.567332 28033 net.cpp:208] This network produces output prob
+I1026 08:01:59.567347 28033 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 08:01:59.567356 28033 net.cpp:219] Network initialization done.
+I1026 08:01:59.567360 28033 net.cpp:220] Memory required for data: 1837200
+I1026 08:58:23.999416 23697 convert_imageset.cpp:70] Shuffling data
+I1026 08:58:24.714747 23697 convert_imageset.cpp:73] A total of 56898 images.
+I1026 08:58:24.714826 23697 convert_imageset.cpp:104] Opening lmdb temp/05-3_layers-10000_initial_images-correct_mostuncertain/train_db
+E1026 08:58:26.906839 23697 convert_imageset.cpp:177] Processed 1000 files.
+E1026 08:58:28.839007 23697 convert_imageset.cpp:177] Processed 2000 files.
+E1026 08:58:30.753778 23697 convert_imageset.cpp:177] Processed 3000 files.
+E1026 08:58:32.600469 23697 convert_imageset.cpp:177] Processed 4000 files.
+E1026 08:58:34.473732 23697 convert_imageset.cpp:177] Processed 5000 files.
+E1026 08:58:36.199990 23697 convert_imageset.cpp:177] Processed 6000 files.
+E1026 08:58:38.035033 23697 convert_imageset.cpp:177] Processed 7000 files.
+E1026 08:58:39.715297 23697 convert_imageset.cpp:177] Processed 8000 files.
+E1026 08:58:41.448268 23697 convert_imageset.cpp:177] Processed 9000 files.
+E1026 08:58:43.111758 23697 convert_imageset.cpp:177] Processed 10000 files.
+E1026 08:58:44.815256 23697 convert_imageset.cpp:177] Processed 11000 files.
+E1026 08:58:46.447516 23697 convert_imageset.cpp:177] Processed 12000 files.
+E1026 08:58:48.178748 23697 convert_imageset.cpp:177] Processed 13000 files.
+E1026 08:58:49.932263 23697 convert_imageset.cpp:177] Processed 14000 files.
+E1026 08:58:51.716460 23697 convert_imageset.cpp:177] Processed 15000 files.
+E1026 08:58:53.319432 23697 convert_imageset.cpp:177] Processed 16000 files.
+E1026 08:58:54.866566 23697 convert_imageset.cpp:177] Processed 17000 files.
+E1026 08:58:56.448555 23697 convert_imageset.cpp:177] Processed 18000 files.
+E1026 08:58:58.017302 23697 convert_imageset.cpp:177] Processed 19000 files.
+E1026 08:58:59.661078 23697 convert_imageset.cpp:177] Processed 20000 files.
+E1026 08:59:01.269045 23697 convert_imageset.cpp:177] Processed 21000 files.
+E1026 08:59:02.879273 23697 convert_imageset.cpp:177] Processed 22000 files.
+E1026 08:59:04.425310 23697 convert_imageset.cpp:177] Processed 23000 files.
+E1026 08:59:06.008332 23697 convert_imageset.cpp:177] Processed 24000 files.
+E1026 08:59:07.566998 23697 convert_imageset.cpp:177] Processed 25000 files.
+E1026 08:59:09.041733 23697 convert_imageset.cpp:177] Processed 26000 files.
+E1026 08:59:10.537948 23697 convert_imageset.cpp:177] Processed 27000 files.
+E1026 08:59:12.083838 23697 convert_imageset.cpp:177] Processed 28000 files.
+E1026 08:59:13.748574 23697 convert_imageset.cpp:177] Processed 29000 files.
+E1026 08:59:15.319596 23697 convert_imageset.cpp:177] Processed 30000 files.
+E1026 08:59:16.811060 23697 convert_imageset.cpp:177] Processed 31000 files.
+E1026 08:59:18.343055 23697 convert_imageset.cpp:177] Processed 32000 files.
+E1026 08:59:19.907747 23697 convert_imageset.cpp:177] Processed 33000 files.
+E1026 08:59:21.537164 23697 convert_imageset.cpp:177] Processed 34000 files.
+E1026 08:59:23.035051 23697 convert_imageset.cpp:177] Processed 35000 files.
+E1026 08:59:24.569723 23697 convert_imageset.cpp:177] Processed 36000 files.
+E1026 08:59:25.999752 23697 convert_imageset.cpp:177] Processed 37000 files.
+E1026 08:59:27.540006 23697 convert_imageset.cpp:177] Processed 38000 files.
+E1026 08:59:29.095932 23697 convert_imageset.cpp:177] Processed 39000 files.
+E1026 08:59:30.617751 23697 convert_imageset.cpp:177] Processed 40000 files.
+E1026 08:59:32.103766 23697 convert_imageset.cpp:177] Processed 41000 files.
+E1026 08:59:33.479465 23697 convert_imageset.cpp:177] Processed 42000 files.
+E1026 08:59:34.928995 23697 convert_imageset.cpp:177] Processed 43000 files.
+E1026 08:59:36.381217 23697 convert_imageset.cpp:177] Processed 44000 files.
+E1026 08:59:37.859369 23697 convert_imageset.cpp:177] Processed 45000 files.
+E1026 08:59:39.290501 23697 convert_imageset.cpp:177] Processed 46000 files.
+E1026 08:59:40.701968 23697 convert_imageset.cpp:177] Processed 47000 files.
+E1026 08:59:42.147490 23697 convert_imageset.cpp:177] Processed 48000 files.
+E1026 08:59:43.667896 23697 convert_imageset.cpp:177] Processed 49000 files.
+E1026 08:59:45.088721 23697 convert_imageset.cpp:177] Processed 50000 files.
+E1026 08:59:46.543419 23697 convert_imageset.cpp:177] Processed 51000 files.
+E1026 08:59:47.970041 23697 convert_imageset.cpp:177] Processed 52000 files.
+E1026 08:59:49.504583 23697 convert_imageset.cpp:177] Processed 53000 files.
+E1026 08:59:51.035629 23697 convert_imageset.cpp:177] Processed 54000 files.
+E1026 08:59:52.473291 23697 convert_imageset.cpp:177] Processed 55000 files.
+E1026 08:59:53.936087 23697 convert_imageset.cpp:177] Processed 56000 files.
+E1026 08:59:55.472743 23697 convert_imageset.cpp:193] Processed 56898 files.
+I1026 08:59:55.766759 24283 caffe.cpp:99] Use GPU with device ID 0
+I1026 08:59:56.236217 24283 caffe.cpp:107] Starting Optimization
+I1026 08:59:56.236342 24283 solver.cpp:32] Initializing solver from parameters: 
+base_lr: 0.01
+display: 1000
+max_iter: 75000
+lr_policy: "inv"
+gamma: 0.0001
+power: 0.75
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data"
+solver_mode: GPU
+net: "temp/05-3_layers-10000_initial_images-correct_mostuncertain/network_captchas_with_3_convolutional_layers_train.prototxt"
+I1026 08:59:56.236373 24283 solver.cpp:67] Creating training net from net file: temp/05-3_layers-10000_initial_images-correct_mostuncertain/network_captchas_with_3_convolutional_layers_train.prototxt
+I1026 08:59:56.247192 24283 net.cpp:39] Initializing net from parameters: 
+name: "Captcha"
+layers {
+  top: "data"
+  top: "label"
+  name: "mnist"
+  type: DATA
+  data_param {
+    source: "temp/05-3_layers-10000_initial_images-correct_mostuncertain/train_db"
+    batch_size: 64
+    backend: LMDB
+  }
+  include {
+    phase: TRAIN
+  }
+  transform_param {
+    scale: 0.00390625
+  }
+}
+layers {
+  bottom: "data"
+  top: "conv1"
+  name: "conv1"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 48
+    pad: 2
+    kernel_size: 5
+    stride: 2
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv1"
+  top: "pool1"
+  name: "pool1"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "relu1"
+  type: RELU
+}
+layers {
+  bottom: "pool1"
+  top: "pool1"
+  name: "drop1"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool1"
+  top: "conv2"
+  name: "conv2"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 64
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv2"
+  top: "pool2"
+  name: "pool2"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 1
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "relu2"
+  type: RELU
+}
+layers {
+  bottom: "pool2"
+  top: "pool2"
+  name: "drop2"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool2"
+  top: "conv3"
+  name: "conv3"
+  type: CONVOLUTION
+  blobs_lr: 1
+  blobs_lr: 2
+  convolution_param {
+    num_output: 128
+    pad: 2
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "conv3"
+  top: "pool3"
+  name: "pool3"
+  type: POOLING
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "relu3"
+  type: RELU
+}
+layers {
+  bottom: "pool3"
+  top: "pool3"
+  name: "drop3"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "pool3"
+  top: "ip1"
+  name: "ip1"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 3072
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "relu4"
+  type: RELU
+}
+layers {
+  bottom: "ip1"
+  top: "ip1"
+  name: "drop4"
+  type: DROPOUT
+  dropout_param {
+    dropout_ratio: 0.5
+  }
+}
+layers {
+  bottom: "ip1"
+  top: "ip2"
+  name: "ip2"
+  type: INNER_PRODUCT
+  blobs_lr: 1
+  blobs_lr: 2
+  inner_product_param {
+    num_output: 378
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layers {
+  bottom: "ip2"
+  bottom: "label"
+  top: "loss"
+  name: "loss"
+  type: SOFTMAX_LOSS
+}
+state {
+  phase: TRAIN
+}
+I1026 08:59:56.247282 24283 net.cpp:67] Creating Layer mnist
+I1026 08:59:56.247293 24283 net.cpp:356] mnist -> data
+I1026 08:59:56.247310 24283 net.cpp:356] mnist -> label
+I1026 08:59:56.247323 24283 net.cpp:96] Setting up mnist
+I1026 08:59:56.254997 24283 data_layer.cpp:68] Opening lmdb temp/05-3_layers-10000_initial_images-correct_mostuncertain/train_db
+I1026 08:59:56.255123 24283 data_layer.cpp:128] output data size: 64,1,50,180
+I1026 08:59:56.256844 24283 net.cpp:103] Top shape: 64 1 50 180 (576000)
+I1026 08:59:56.256883 24283 net.cpp:103] Top shape: 64 1 1 1 (64)
+I1026 08:59:56.256911 24283 net.cpp:67] Creating Layer conv1
+I1026 08:59:56.256925 24283 net.cpp:394] conv1 <- data
+I1026 08:59:56.256966 24283 net.cpp:356] conv1 -> conv1
+I1026 08:59:56.256989 24283 net.cpp:96] Setting up conv1
+I1026 08:59:56.257349 24283 net.cpp:103] Top shape: 64 48 25 90 (6912000)
+I1026 08:59:56.257382 24283 net.cpp:67] Creating Layer pool1
+I1026 08:59:56.257390 24283 net.cpp:394] pool1 <- conv1
+I1026 08:59:56.257396 24283 net.cpp:356] pool1 -> pool1
+I1026 08:59:56.257405 24283 net.cpp:96] Setting up pool1
+I1026 08:59:56.257422 24283 net.cpp:103] Top shape: 64 48 13 45 (1797120)
+I1026 08:59:56.257431 24283 net.cpp:67] Creating Layer relu1
+I1026 08:59:56.257434 24283 net.cpp:394] relu1 <- pool1
+I1026 08:59:56.257441 24283 net.cpp:345] relu1 -> pool1 (in-place)
+I1026 08:59:56.257447 24283 net.cpp:96] Setting up relu1
+I1026 08:59:56.257452 24283 net.cpp:103] Top shape: 64 48 13 45 (1797120)
+I1026 08:59:56.257459 24283 net.cpp:67] Creating Layer drop1
+I1026 08:59:56.257463 24283 net.cpp:394] drop1 <- pool1
+I1026 08:59:56.257472 24283 net.cpp:345] drop1 -> pool1 (in-place)
+I1026 08:59:56.257478 24283 net.cpp:96] Setting up drop1
+I1026 08:59:56.257484 24283 net.cpp:103] Top shape: 64 48 13 45 (1797120)
+I1026 08:59:56.257491 24283 net.cpp:67] Creating Layer conv2
+I1026 08:59:56.257496 24283 net.cpp:394] conv2 <- pool1
+I1026 08:59:56.257504 24283 net.cpp:356] conv2 -> conv2
+I1026 08:59:56.257513 24283 net.cpp:96] Setting up conv2
+I1026 08:59:56.258090 24283 net.cpp:103] Top shape: 64 64 13 45 (2396160)
+I1026 08:59:56.258107 24283 net.cpp:67] Creating Layer pool2
+I1026 08:59:56.258113 24283 net.cpp:394] pool2 <- conv2
+I1026 08:59:56.258121 24283 net.cpp:356] pool2 -> pool2
+I1026 08:59:56.258127 24283 net.cpp:96] Setting up pool2
+I1026 08:59:56.258133 24283 net.cpp:103] Top shape: 64 64 12 44 (2162688)
+I1026 08:59:56.258139 24283 net.cpp:67] Creating Layer relu2
+I1026 08:59:56.258144 24283 net.cpp:394] relu2 <- pool2
+I1026 08:59:56.258152 24283 net.cpp:345] relu2 -> pool2 (in-place)
+I1026 08:59:56.258159 24283 net.cpp:96] Setting up relu2
+I1026 08:59:56.258163 24283 net.cpp:103] Top shape: 64 64 12 44 (2162688)
+I1026 08:59:56.258172 24283 net.cpp:67] Creating Layer drop2
+I1026 08:59:56.258177 24283 net.cpp:394] drop2 <- pool2
+I1026 08:59:56.258182 24283 net.cpp:345] drop2 -> pool2 (in-place)
+I1026 08:59:56.258188 24283 net.cpp:96] Setting up drop2
+I1026 08:59:56.258193 24283 net.cpp:103] Top shape: 64 64 12 44 (2162688)
+I1026 08:59:56.258203 24283 net.cpp:67] Creating Layer conv3
+I1026 08:59:56.258208 24283 net.cpp:394] conv3 <- pool2
+I1026 08:59:56.258213 24283 net.cpp:356] conv3 -> conv3
+I1026 08:59:56.258220 24283 net.cpp:96] Setting up conv3
+I1026 08:59:56.261145 24283 net.cpp:103] Top shape: 64 128 12 44 (4325376)
+I1026 08:59:56.261196 24283 net.cpp:67] Creating Layer pool3
+I1026 08:59:56.261211 24283 net.cpp:394] pool3 <- conv3
+I1026 08:59:56.261234 24283 net.cpp:356] pool3 -> pool3
+I1026 08:59:56.261255 24283 net.cpp:96] Setting up pool3
+I1026 08:59:56.261270 24283 net.cpp:103] Top shape: 64 128 6 22 (1081344)
+I1026 08:59:56.261287 24283 net.cpp:67] Creating Layer relu3
+I1026 08:59:56.261301 24283 net.cpp:394] relu3 <- pool3
+I1026 08:59:56.261319 24283 net.cpp:345] relu3 -> pool3 (in-place)
+I1026 08:59:56.261337 24283 net.cpp:96] Setting up relu3
+I1026 08:59:56.261350 24283 net.cpp:103] Top shape: 64 128 6 22 (1081344)
+I1026 08:59:56.261368 24283 net.cpp:67] Creating Layer drop3
+I1026 08:59:56.261380 24283 net.cpp:394] drop3 <- pool3
+I1026 08:59:56.261396 24283 net.cpp:345] drop3 -> pool3 (in-place)
+I1026 08:59:56.261414 24283 net.cpp:96] Setting up drop3
+I1026 08:59:56.261426 24283 net.cpp:103] Top shape: 64 128 6 22 (1081344)
+I1026 08:59:56.261445 24283 net.cpp:67] Creating Layer ip1
+I1026 08:59:56.261457 24283 net.cpp:394] ip1 <- pool3
+I1026 08:59:56.261478 24283 net.cpp:356] ip1 -> ip1
+I1026 08:59:56.261543 24283 net.cpp:96] Setting up ip1
+I1026 08:59:56.765292 24283 net.cpp:103] Top shape: 64 3072 1 1 (196608)
+I1026 08:59:56.765354 24283 net.cpp:67] Creating Layer relu4
+I1026 08:59:56.765362 24283 net.cpp:394] relu4 <- ip1
+I1026 08:59:56.765372 24283 net.cpp:345] relu4 -> ip1 (in-place)
+I1026 08:59:56.765382 24283 net.cpp:96] Setting up relu4
+I1026 08:59:56.765393 24283 net.cpp:103] Top shape: 64 3072 1 1 (196608)
+I1026 08:59:56.765401 24283 net.cpp:67] Creating Layer drop4
+I1026 08:59:56.765406 24283 net.cpp:394] drop4 <- ip1
+I1026 08:59:56.765413 24283 net.cpp:345] drop4 -> ip1 (in-place)
+I1026 08:59:56.765419 24283 net.cpp:96] Setting up drop4
+I1026 08:59:56.765424 24283 net.cpp:103] Top shape: 64 3072 1 1 (196608)
+I1026 08:59:56.765436 24283 net.cpp:67] Creating Layer ip2
+I1026 08:59:56.765441 24283 net.cpp:394] ip2 <- ip1
+I1026 08:59:56.765450 24283 net.cpp:356] ip2 -> ip2
+I1026 08:59:56.765458 24283 net.cpp:96] Setting up ip2
+I1026 08:59:56.775888 24283 net.cpp:103] Top shape: 64 378 1 1 (24192)
+I1026 08:59:56.775960 24283 net.cpp:67] Creating Layer loss
+I1026 08:59:56.775967 24283 net.cpp:394] loss <- ip2
+I1026 08:59:56.775975 24283 net.cpp:394] loss <- label
+I1026 08:59:56.775982 24283 net.cpp:356] loss -> loss
+I1026 08:59:56.775992 24283 net.cpp:96] Setting up loss
+I1026 08:59:56.776005 24283 net.cpp:103] Top shape: 1 1 1 1 (1)
+I1026 08:59:56.776010 24283 net.cpp:109]     with loss weight 1
+I1026 08:59:56.776051 24283 net.cpp:170] loss needs backward computation.
+I1026 08:59:56.776057 24283 net.cpp:170] ip2 needs backward computation.
+I1026 08:59:56.776062 24283 net.cpp:170] drop4 needs backward computation.
+I1026 08:59:56.776067 24283 net.cpp:170] relu4 needs backward computation.
+I1026 08:59:56.776070 24283 net.cpp:170] ip1 needs backward computation.
+I1026 08:59:56.776074 24283 net.cpp:170] drop3 needs backward computation.
+I1026 08:59:56.776079 24283 net.cpp:170] relu3 needs backward computation.
+I1026 08:59:56.776083 24283 net.cpp:170] pool3 needs backward computation.
+I1026 08:59:56.776087 24283 net.cpp:170] conv3 needs backward computation.
+I1026 08:59:56.776093 24283 net.cpp:170] drop2 needs backward computation.
+I1026 08:59:56.776098 24283 net.cpp:170] relu2 needs backward computation.
+I1026 08:59:56.776101 24283 net.cpp:170] pool2 needs backward computation.
+I1026 08:59:56.776105 24283 net.cpp:170] conv2 needs backward computation.
+I1026 08:59:56.776110 24283 net.cpp:170] drop1 needs backward computation.
+I1026 08:59:56.776114 24283 net.cpp:170] relu1 needs backward computation.
+I1026 08:59:56.776119 24283 net.cpp:170] pool1 needs backward computation.
+I1026 08:59:56.776124 24283 net.cpp:170] conv1 needs backward computation.
+I1026 08:59:56.776129 24283 net.cpp:172] mnist does not need backward computation.
+I1026 08:59:56.776132 24283 net.cpp:208] This network produces output loss
+I1026 08:59:56.776144 24283 net.cpp:467] Collecting Learning Rate and Weight Decay.
+I1026 08:59:56.776150 24283 net.cpp:219] Network initialization done.
+I1026 08:59:56.776154 24283 net.cpp:220] Memory required for data: 119788292
+I1026 08:59:56.776217 24283 solver.cpp:41] Solver scaffolding done.
+I1026 08:59:56.776223 24283 caffe.cpp:112] Resuming from temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_50000.solverstate
+I1026 08:59:56.776228 24283 solver.cpp:160] Solving Captcha
+I1026 08:59:56.776248 24283 solver.cpp:165] Restoring previous solver status from temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_50000.solverstate
+I1026 09:00:02.844331 24283 solver.cpp:502] SGDSolver: restoring history
+I1026 09:00:03.859380 24283 solver.cpp:191] Iteration 50000, loss = 3.22673
+I1026 09:00:03.859434 24283 solver.cpp:206]     Train net output #0: loss = 3.22673 (* 1 = 3.22673 loss)
+I1026 09:00:03.859448 24283 solver.cpp:403] Iteration 50000, lr = 0.00260847
+I1026 09:08:29.082031 24283 solver.cpp:191] Iteration 51000, loss = 2.95093
+I1026 09:08:29.082886 24283 solver.cpp:206]     Train net output #0: loss = 2.95093 (* 1 = 2.95093 loss)
+I1026 09:08:29.082919 24283 solver.cpp:403] Iteration 51000, lr = 0.00257634
+I1026 09:16:55.847178 24283 solver.cpp:191] Iteration 52000, loss = 2.91887
+I1026 09:16:55.847774 24283 solver.cpp:206]     Train net output #0: loss = 2.91887 (* 1 = 2.91887 loss)
+I1026 09:16:55.847806 24283 solver.cpp:403] Iteration 52000, lr = 0.00254511
+I1026 09:25:19.684522 24283 solver.cpp:191] Iteration 53000, loss = 2.95954
+I1026 09:25:19.685355 24283 solver.cpp:206]     Train net output #0: loss = 2.95954 (* 1 = 2.95954 loss)
+I1026 09:25:19.685389 24283 solver.cpp:403] Iteration 53000, lr = 0.00251475
+I1026 09:33:45.688292 24283 solver.cpp:191] Iteration 54000, loss = 2.81119
+I1026 09:33:45.689515 24283 solver.cpp:206]     Train net output #0: loss = 2.81119 (* 1 = 2.81119 loss)
+I1026 09:33:45.689548 24283 solver.cpp:403] Iteration 54000, lr = 0.00248522
+I1026 09:42:11.356464 24283 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_55000.caffemodel
+I1026 09:42:15.361332 24283 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_55000.solverstate
+I1026 09:42:18.929381 24283 solver.cpp:191] Iteration 55000, loss = 2.50184
+I1026 09:42:18.929941 24283 solver.cpp:206]     Train net output #0: loss = 2.50184 (* 1 = 2.50184 loss)
+I1026 09:42:18.929980 24283 solver.cpp:403] Iteration 55000, lr = 0.00245649
+I1026 09:50:44.879510 24283 solver.cpp:191] Iteration 56000, loss = 2.70689
+I1026 09:50:44.880100 24283 solver.cpp:206]     Train net output #0: loss = 2.70689 (* 1 = 2.70689 loss)
+I1026 09:50:44.880132 24283 solver.cpp:403] Iteration 56000, lr = 0.00242852
+I1026 09:59:10.166391 24283 solver.cpp:191] Iteration 57000, loss = 2.51014
+I1026 09:59:10.166914 24283 solver.cpp:206]     Train net output #0: loss = 2.51014 (* 1 = 2.51014 loss)
+I1026 09:59:10.166944 24283 solver.cpp:403] Iteration 57000, lr = 0.00240129
+I1026 10:05:21.256325 24283 solver.cpp:191] Iteration 58000, loss = 2.4387
+I1026 10:05:21.257160 24283 solver.cpp:206]     Train net output #0: loss = 2.4387 (* 1 = 2.4387 loss)
+I1026 10:05:21.257194 24283 solver.cpp:403] Iteration 58000, lr = 0.00237475
+I1026 10:09:22.179539 24283 solver.cpp:191] Iteration 59000, loss = 2.66194
+I1026 10:09:22.180093 24283 solver.cpp:206]     Train net output #0: loss = 2.66194 (* 1 = 2.66194 loss)
+I1026 10:09:22.180112 24283 solver.cpp:403] Iteration 59000, lr = 0.00234889
+I1026 10:13:23.567131 24283 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_60000.caffemodel
+I1026 10:13:29.320266 24283 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_60000.solverstate
+I1026 10:13:32.718935 24283 solver.cpp:191] Iteration 60000, loss = 2.72962
+I1026 10:13:32.719693 24283 solver.cpp:206]     Train net output #0: loss = 2.72962 (* 1 = 2.72962 loss)
+I1026 10:13:32.719739 24283 solver.cpp:403] Iteration 60000, lr = 0.00232368
+I1026 10:21:57.533771 24283 solver.cpp:191] Iteration 61000, loss = 3.00289
+I1026 10:21:57.534642 24283 solver.cpp:206]     Train net output #0: loss = 3.00289 (* 1 = 3.00289 loss)
+I1026 10:21:57.534678 24283 solver.cpp:403] Iteration 61000, lr = 0.00229909
+I1026 10:30:23.660725 24283 solver.cpp:191] Iteration 62000, loss = 2.48806
+I1026 10:30:23.661521 24283 solver.cpp:206]     Train net output #0: loss = 2.48806 (* 1 = 2.48806 loss)
+I1026 10:30:23.661556 24283 solver.cpp:403] Iteration 62000, lr = 0.0022751
+I1026 10:38:49.899992 24283 solver.cpp:191] Iteration 63000, loss = 2.57702
+I1026 10:38:49.900617 24283 solver.cpp:206]     Train net output #0: loss = 2.57702 (* 1 = 2.57702 loss)
+I1026 10:38:49.900650 24283 solver.cpp:403] Iteration 63000, lr = 0.00225169
+I1026 10:47:14.892946 24283 solver.cpp:191] Iteration 64000, loss = 2.59436
+I1026 10:47:14.893770 24283 solver.cpp:206]     Train net output #0: loss = 2.59436 (* 1 = 2.59436 loss)
+I1026 10:47:14.893805 24283 solver.cpp:403] Iteration 64000, lr = 0.00222883
+I1026 10:55:39.746675 24283 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_65000.caffemodel
+I1026 10:55:44.446779 24283 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_65000.solverstate
+I1026 10:55:49.759532 24283 solver.cpp:191] Iteration 65000, loss = 2.57828
+I1026 10:55:49.760224 24283 solver.cpp:206]     Train net output #0: loss = 2.57828 (* 1 = 2.57828 loss)
+I1026 10:55:49.760244 24283 solver.cpp:403] Iteration 65000, lr = 0.0022065
+I1026 11:04:15.768111 24283 solver.cpp:191] Iteration 66000, loss = 2.39935
+I1026 11:04:15.768889 24283 solver.cpp:206]     Train net output #0: loss = 2.39935 (* 1 = 2.39935 loss)
+I1026 11:04:15.768926 24283 solver.cpp:403] Iteration 66000, lr = 0.00218469
+I1026 11:12:41.585726 24283 solver.cpp:191] Iteration 67000, loss = 2.60418
+I1026 11:12:41.586544 24283 solver.cpp:206]     Train net output #0: loss = 2.60418 (* 1 = 2.60418 loss)
+I1026 11:12:41.586576 24283 solver.cpp:403] Iteration 67000, lr = 0.00216338
+I1026 11:21:06.454509 24283 solver.cpp:191] Iteration 68000, loss = 2.44529
+I1026 11:21:06.457923 24283 solver.cpp:206]     Train net output #0: loss = 2.44529 (* 1 = 2.44529 loss)
+I1026 11:21:06.457955 24283 solver.cpp:403] Iteration 68000, lr = 0.00214254
+I1026 11:29:31.252843 24283 solver.cpp:191] Iteration 69000, loss = 2.55185
+I1026 11:29:31.253557 24283 solver.cpp:206]     Train net output #0: loss = 2.55185 (* 1 = 2.55185 loss)
+I1026 11:29:31.253592 24283 solver.cpp:403] Iteration 69000, lr = 0.00212217
+I1026 11:37:55.841635 24283 solver.cpp:317] Snapshotting to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_70000.caffemodel
+I1026 11:38:00.366142 24283 solver.cpp:324] Snapshotting solver state to temp/05-3_layers-10000_initial_images-correct_mostuncertain/results/data_iter_70000.solverstate
+I1026 11:38:04.284359 24283 solver.cpp:191] Iteration 70000, loss = 2.50625
+I1026 11:38:04.284929 24283 solver.cpp:206]     Train net output #0: loss = 2.50625 (* 1 = 2.50625 loss)
+I1026 11:38:04.284960 24283 solver.cpp:403] Iteration 70000, lr = 0.00210224
+I1026 11:46:28.982767 24283 solver.cpp:191] Iteration 71000, loss = 2.56683
+I1026 11:46:28.983595 24283 solver.cpp:206]     Train net output #0: loss = 2.56683 (* 1 = 2.56683 loss)
+I1026 11:46:28.983628 24283 solver.cpp:403] Iteration 71000, lr = 0.00208275
+I1026 11:54:53.494683 24283 solver.cpp:191] Iteration 72000, loss = 2.41358
+I1026 11:54:53.495465 24283 solver.cpp:206]     Train net output #0: loss = 2.41358 (* 1 = 2.41358 loss)
+I1026 11:54:53.495497 24283 solver.cpp:403] Iteration 72000, lr = 0.00206367
+I1026 12:03:19.387290 24283 solver.cpp:191] Iteration 73000, loss = 2.58714
+I1026 12:03:19.387912 24283 solver.cpp:206]     Train net output #0: loss = 2.58714 (* 1 = 2.58714 loss)
+I1026 12:03:19.387949 24283 solver.cpp:403] Iteration 73000, lr = 0.00204499
+I1026 12:11:43.938361 24283 solver.cpp:191] Iteration 74000, loss = 2.58832
+I1026 12:11:43.939162 24283 solver.cpp:206]     Train net output #0: loss = 2.58832 (* 1 = 2.58832 loss)
+I1026 12:11:43.939193 24283 solver.cpp:403] Iteration 74000, lr = 0.00202671
