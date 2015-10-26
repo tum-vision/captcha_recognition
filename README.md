@@ -53,3 +53,9 @@ All logs and outputs are written to the folder *results/<test_name>/log.txt* and
 You can find one example output in *results/00-3_layers-10000_initial_images-correct_mostuncertain*. Note: To keep the repository small, only the first 3 folders for the confusion matrices and histograms that the program outputs were added.
 
 **Important:** If you want to start the program for a second test, make sure that you change the $name in the file  *src/iterate.sh*. If the program is started for the second time with the same name, it tries to resume from the point where it was interrupted. NEVER EVER start two iterations with the same name at the same time ;)
+
+## Possible Improvements
+
+* Write a Caffe output layer that is able to learn several digits and the length of the sequence at once (compare also: [https://github.com/BVLC/caffe/pull/523](https://github.com/BVLC/caffe/pull/523)). At the moment we learn every digit independently which is not the most elegant way.
+* Adjust the program to detect variable length CAPTCHAs. At the moment we have fixed the length to 6 for simplicity.
+* Stop learning if the accuracy does not increase anymore, or even decreases. At the moment the program always trains for a predefined number of iterations. It would be better to use early stopping. Therefore one could for example use Python to start the training and test the accuracy from time to time and stop training if the accuracy has decreased compared to the previous test.
