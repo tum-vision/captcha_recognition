@@ -1,0 +1,333 @@
+Starting with 05-3_layers-10000_initial_images-correct_mostuncertain in mode correct_mostuncertain
+
+Creating final testing images...
+X-Powered-By: PHP/5.5.9-1ubuntu4.13
+Content-type: text/html
+
+Deleting old files...
+0 Training Samples have been created...(0 skipped duplicates)
+1000 Training Samples have been created...(0 skipped duplicates)
+2000 Training Samples have been created...
+
+Creating inital training images...
+X-Powered-By: PHP/5.5.9-1ubuntu4.13
+Content-type: text/html
+
+Deleting old files...
+0 Training Samples have been created...(0 skipped duplicates)
+1000 Training Samples have been created...(0 skipped duplicates)
+2000 Training Samples have been created...(0 skipped duplicates)
+3000 Training Samples have been created...(0 skipped duplicates)
+4000 Training Samples have been created...(0 skipped duplicates)
+5000 Training Samples have been created...(0 skipped duplicates)
+6000 Training Samples have been created...(0 skipped duplicates)
+7000 Training Samples have been created...(0 skipped duplicates)
+8000 Training Samples have been created...(0 skipped duplicates)
+9000 Training Samples have been created...(0 skipped duplicates)
+10000 Training Samples have been created...
+
+Creating lmdb database in iteration 50000...
+Creating temp/05-3_layers-10000_initial_images-correct_mostuncertain/train.txt
+0 files have been processed.
+1000 files have been processed.
+2000 files have been processed.
+3000 files have been processed.
+4000 files have been processed.
+5000 files have been processed.
+6000 files have been processed.
+7000 files have been processed.
+8000 files have been processed.
+9000 files have been processed.
+Creating train lmdb...
+lmdb database created successful.
+
+Training network...
+
+... Finished traing.
+
+
+Creating learning images...
+X-Powered-By: PHP/5.5.9-1ubuntu4.13
+Content-type: text/html
+
+Deleting old files...
+0 Training Samples have been created...(0 skipped duplicates)
+1000 Training Samples have been created...(0 skipped duplicates)
+2000 Training Samples have been created...(0 skipped duplicates)
+3000 Training Samples have been created...(0 skipped duplicates)
+4000 Training Samples have been created...(0 skipped duplicates)
+5000 Training Samples have been created...(0 skipped duplicates)
+6000 Training Samples have been created...(0 skipped duplicates)
+7000 Training Samples have been created...(0 skipped duplicates)
+8000 Training Samples have been created...(0 skipped duplicates)
+9000 Training Samples have been created...(1 skipped duplicates)
+10000 Training Samples have been created...(0 skipped duplicates)
+11000 Training Samples have been created...(1 skipped duplicates)
+12000 Training Samples have been created...(0 skipped duplicates)
+13000 Training Samples have been created...(0 skipped duplicates)
+14000 Training Samples have been created...(0 skipped duplicates)
+15000 Training Samples have been created...(0 skipped duplicates)
+16000 Training Samples have been created...(0 skipped duplicates)
+17000 Training Samples have been created...(0 skipped duplicates)
+18000 Training Samples have been created...(0 skipped duplicates)
+19000 Training Samples have been created...(0 skipped duplicates)
+20000 Training Samples have been created...(0 skipped duplicates)
+21000 Training Samples have been created...(0 skipped duplicates)
+22000 Training Samples have been created...(0 skipped duplicates)
+23000 Training Samples have been created...(1 skipped duplicates)
+24000 Training Samples have been created...(0 skipped duplicates)
+25000 Training Samples have been created...(0 skipped duplicates)
+26000 Training Samples have been created...(0 skipped duplicates)
+27000 Training Samples have been created...(0 skipped duplicates)
+28000 Training Samples have been created...(0 skipped duplicates)
+29000 Training Samples have been created...(1 skipped duplicates)
+30000 Training Samples have been created...(0 skipped duplicates)
+31000 Training Samples have been created...(0 skipped duplicates)
+32000 Training Samples have been created...(0 skipped duplicates)
+33000 Training Samples have been created...(0 skipped duplicates)
+34000 Training Samples have been created...(1 skipped duplicates)
+35000 Training Samples have been created...(0 skipped duplicates)
+36000 Training Samples have been created...(0 skipped duplicates)
+37000 Training Samples have been created...(0 skipped duplicates)
+38000 Training Samples have been created...(1 skipped duplicates)
+39000 Training Samples have been created...(0 skipped duplicates)
+40000 Training Samples have been created...(0 skipped duplicates)
+41000 Training Samples have been created...(0 skipped duplicates)
+42000 Training Samples have been created...(0 skipped duplicates)
+43000 Training Samples have been created...(0 skipped duplicates)
+44000 Training Samples have been created...(0 skipped duplicates)
+45000 Training Samples have been created...(0 skipped duplicates)
+46000 Training Samples have been created...(0 skipped duplicates)
+47000 Training Samples have been created...(0 skipped duplicates)
+48000 Training Samples have been created...(0 skipped duplicates)
+49000 Training Samples have been created...(1 skipped duplicates)
+50000 Training Samples have been created...(1 skipped duplicates)
+51000 Training Samples have been created...(1 skipped duplicates)
+52000 Training Samples have been created...(1 skipped duplicates)
+53000 Training Samples have been created...(0 skipped duplicates)
+54000 Training Samples have been created...(1 skipped duplicates)
+55000 Training Samples have been created...(1 skipped duplicates)
+56000 Training Samples have been created...(1 skipped duplicates)
+57000 Training Samples have been created...(1 skipped duplicates)
+58000 Training Samples have been created...(0 skipped duplicates)
+59000 Training Samples have been created...(0 skipped duplicates)
+60000 Training Samples have been created...(0 skipped duplicates)
+61000 Training Samples have been created...(0 skipped duplicates)
+62000 Training Samples have been created...(0 skipped duplicates)
+63000 Training Samples have been created...(0 skipped duplicates)
+64000 Training Samples have been created...(1 skipped duplicates)
+65000 Training Samples have been created...(1 skipped duplicates)
+66000 Training Samples have been created...(1 skipped duplicates)
+67000 Training Samples have been created...(0 skipped duplicates)
+68000 Training Samples have been created...(1 skipped duplicates)
+69000 Training Samples have been created...(0 skipped duplicates)
+70000 Training Samples have been created...(1 skipped duplicates)
+71000 Training Samples have been created...(0 skipped duplicates)
+72000 Training Samples have been created...(1 skipped duplicates)
+73000 Training Samples have been created...(1 skipped duplicates)
+74000 Training Samples have been created...(0 skipped duplicates)
+75000 Training Samples have been created...(0 skipped duplicates)
+76000 Training Samples have been created...(0 skipped duplicates)
+77000 Training Samples have been created...(0 skipped duplicates)
+78000 Training Samples have been created...(2 skipped duplicates)
+79000 Training Samples have been created...(0 skipped duplicates)
+80000 Training Samples have been created...(0 skipped duplicates)
+81000 Training Samples have been created...(1 skipped duplicates)
+82000 Training Samples have been created...(0 skipped duplicates)
+83000 Training Samples have been created...(0 skipped duplicates)
+84000 Training Samples have been created...(2 skipped duplicates)
+85000 Training Samples have been created...(0 skipped duplicates)
+86000 Training Samples have been created...(0 skipped duplicates)
+87000 Training Samples have been created...(1 skipped duplicates)
+88000 Training Samples have been created...(0 skipped duplicates)
+89000 Training Samples have been created...(0 skipped duplicates)
+90000 Training Samples have been created...(0 skipped duplicates)
+91000 Training Samples have been created...(2 skipped duplicates)
+92000 Training Samples have been created...(2 skipped duplicates)
+93000 Training Samples have been created...(0 skipped duplicates)
+94000 Training Samples have been created...(0 skipped duplicates)
+95000 Training Samples have been created...(0 skipped duplicates)
+96000 Training Samples have been created...(0 skipped duplicates)
+97000 Training Samples have been created...(0 skipped duplicates)
+98000 Training Samples have been created...(0 skipped duplicates)
+99000 Training Samples have been created...(1 skipped duplicates)
+100000 Training Samples have been created...
+
+Testing network after 50000 iterations (and creating new training images for next iteration)...
+Testing iteration 5000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+0 of 2000 CAPTCHAs have been classified correctly (0.00%)
+Testing iteration 10000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+2 of 2000 CAPTCHAs have been classified correctly (0.10%)
+Testing iteration 15000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+17 of 2000 CAPTCHAs have been classified correctly (0.85%)
+Testing iteration 20000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+75 of 2000 CAPTCHAs have been classified correctly (3.75%)
+Testing iteration 25000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+93 of 2000 CAPTCHAs have been classified correctly (4.65%)
+Testing iteration 30000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+140 of 2000 CAPTCHAs have been classified correctly (7.00%)
+Testing iteration 35000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+169 of 2000 CAPTCHAs have been classified correctly (8.45%)
+Testing iteration 40000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+185 of 2000 CAPTCHAs have been classified correctly (9.25%)
+Testing iteration 45000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+165 of 2000 CAPTCHAs have been classified correctly (8.25%)
+Testing iteration 50000 with final validation images...
+1000 files have been processed
+2000 files have been processed
+212 of 2000 CAPTCHAs have been classified correctly (10.60%)
+Testing learning images...
+1000 files have been processed
+2000 files have been processed
+3000 files have been processed
+4000 files have been processed
+5000 files have been processed
+6000 files have been processed
+7000 files have been processed
+8000 files have been processed
+9000 files have been processed
+10000 files have been processed
+11000 files have been processed
+12000 files have been processed
+13000 files have been processed
+14000 files have been processed
+15000 files have been processed
+16000 files have been processed
+17000 files have been processed
+18000 files have been processed
+19000 files have been processed
+20000 files have been processed
+21000 files have been processed
+22000 files have been processed
+23000 files have been processed
+24000 files have been processed
+25000 files have been processed
+26000 files have been processed
+27000 files have been processed
+28000 files have been processed
+29000 files have been processed
+30000 files have been processed
+31000 files have been processed
+32000 files have been processed
+33000 files have been processed
+34000 files have been processed
+35000 files have been processed
+36000 files have been processed
+37000 files have been processed
+38000 files have been processed
+39000 files have been processed
+40000 files have been processed
+41000 files have been processed
+42000 files have been processed
+43000 files have been processed
+44000 files have been processed
+45000 files have been processed
+46000 files have been processed
+47000 files have been processed
+48000 files have been processed
+49000 files have been processed
+50000 files have been processed
+51000 files have been processed
+52000 files have been processed
+53000 files have been processed
+54000 files have been processed
+55000 files have been processed
+56000 files have been processed
+57000 files have been processed
+58000 files have been processed
+59000 files have been processed
+60000 files have been processed
+61000 files have been processed
+62000 files have been processed
+63000 files have been processed
+64000 files have been processed
+65000 files have been processed
+66000 files have been processed
+67000 files have been processed
+68000 files have been processed
+69000 files have been processed
+70000 files have been processed
+71000 files have been processed
+72000 files have been processed
+73000 files have been processed
+74000 files have been processed
+75000 files have been processed
+76000 files have been processed
+77000 files have been processed
+78000 files have been processed
+79000 files have been processed
+80000 files have been processed
+81000 files have been processed
+82000 files have been processed
+83000 files have been processed
+84000 files have been processed
+85000 files have been processed
+86000 files have been processed
+87000 files have been processed
+88000 files have been processed
+89000 files have been processed
+90000 files have been processed
+91000 files have been processed
+92000 files have been processed
+93000 files have been processed
+94000 files have been processed
+95000 files have been processed
+96000 files have been processed
+97000 files have been processed
+98000 files have been processed
+99000 files have been processed
+100000 files have been processed
+Done in 2972.07 s.
+9483 of 100000 CAPTCHAs have been classified correctly (9.48%)
+38758 of 100000 CAPTCHAs have been classified nearly correctly (at most 1 character wrong) (38.76%)
+Sorting files...
+0 files have been copied
+1000 files have been copied
+2000 files have been copied
+3000 files have been copied
+4000 files have been copied
+5000 files have been copied
+6000 files have been copied
+7000 files have been copied
+8000 files have been copied
+9000 files have been copied
+
+
+================================================================================
+
+
+
+Creating lmdb database in iteration 75000...
+Creating temp/05-3_layers-10000_initial_images-correct_mostuncertain/train.txt
+0 files have been processed.
+1000 files have been processed.
+2000 files have been processed.
+3000 files have been processed.
+4000 files have been processed.
+5000 files have been processed.
+6000 files have been processed.
+7000 files have been processed.
+8000 files have been processed.
+9000 files have been processed.
+Creating train lmdb...
+lmdb database created successful.
+
+Training network...
