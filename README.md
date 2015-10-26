@@ -1,5 +1,6 @@
 #CAPTCHA Recognition with Active Deep Learning
 
+
 > Fabian Stark, Caner Hazirbas, Rudolph Triebel, and Daniel Cremers,
 > **CAPTCHA Recognition with Active Deep Learning**,
 > in *GCPR Workshop on New Challenges in Neural Computation*, 2015. [[bib](https://vision.in.tum.de/research/deeplearning?key=stark-gcpr15)]
