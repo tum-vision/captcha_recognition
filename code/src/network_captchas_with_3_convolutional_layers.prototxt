@@ -9,7 +9,6 @@ input_dim: 1
 input_dim: 50
 # width
 input_dim: 180
-# also very important: num_output = num_output in train_test
 
 
 layers {

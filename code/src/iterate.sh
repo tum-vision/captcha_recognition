@@ -19,32 +19,32 @@ learningImagesInEveryIteration=100000
 newTrainingImagesInEveryIteration=10000
 
 getNumberOfIters() {
-		#calculate iterations
-		if [ "$i" -eq 1 ]; then
-			# 50,000 iterations for epoch 1
-			iters=50000
-			iters_previous=0
-		elif [ "$i" -le 6 ]; then
-			# 25,000 iterations for epoch 2-6
-			iters_previous=$iters
-			iters=$((iters+25000))
-		elif [ "$i" -le 11 ]; then
-			# 20,000 iterations for epoch 7-11
-			iters_previous=$iters
-			iters=$((iters+20000))
-		elif [ "$i" -le 16 ]; then
-			# 15,000 iterations for epoch 12-16
-			iters_previous=$iters
-			iters=$((iters+15000))
-		elif [ "$i" -le 21 ]; then
-			# 10,000 iterations for epoch 17-21
-			iters_previous=$iters
-			iters=$((iters+10000))
-		else
-			# 5,000 iterations for epoch > 21
-			iters_previous=$iters
-			iters=$((iters+5000))
-		fi
+	#calculate iterations
+	if [ "$i" -eq 1 ]; then
+		# 50,000 iterations for epoch 1
+		iters=50000
+		iters_previous=0
+	elif [ "$i" -le 6 ]; then
+		# 25,000 iterations for epoch 2-6
+		iters_previous=$iters
+		iters=$((iters+25000))
+	elif [ "$i" -le 11 ]; then
+		# 20,000 iterations for epoch 7-11
+		iters_previous=$iters
+		iters=$((iters+20000))
+	elif [ "$i" -le 16 ]; then
+		# 15,000 iterations for epoch 12-16
+		iters_previous=$iters
+		iters=$((iters+15000))
+	elif [ "$i" -le 21 ]; then
+		# 10,000 iterations for epoch 17-21
+		iters_previous=$iters
+		iters=$((iters+10000))
+	else
+		# 5,000 iterations for epoch > 21
+		iters_previous=$iters
+		iters=$((iters+5000))
+	fi
 }
 
 
@@ -54,6 +54,9 @@ if [ ! -d "temp/$name" ]; then
 	# create temp folder
 	mkdir temp/$name
 	mkdir temp/${name}/results
+	
+	# set permissions
+	chmod +x src/createdb.sh
 	
 	# copy solver and network prototxt before we edit them
 	cp src/captcha_solver.prototxt temp/${name}/captcha_solver.prototxt
