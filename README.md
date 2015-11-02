@@ -50,7 +50,7 @@ To run the program in the background, execute the file run_iterate.sh from the c
     ./run_iterate.sh
 
 All logs and outputs are written to the folder *results/<test_name>/log.txt* and *log2.txt*  
-You can find one example output in *results/00-3_layers-10000_initial_images-correct_mostuncertain*. Note: To keep the repository small, only the first 3 folders for the confusion matrices and histograms that the program outputs were added.
+You can find one example output in *results/00-3_layers-10000_initial_images-correct_mostuncertain*. Note: To keep the repository small, only the first 3 folders (5000, 10000 and 15000) and the last folder (520000) for the confusion matrices and histograms that the program outputs were added.
 
 **Important:** If you want to start the program for a second test, make sure that you change the $name in the file  *src/iterate.sh*. If the program is started for the second time with the same name, it tries to resume from the point where it was interrupted. NEVER EVER start two iterations with the same name at the same time ;)
 
