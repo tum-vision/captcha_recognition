@@ -81,7 +81,7 @@ class SimpleCaptcha {
      * directory to another location outise the web server
      *
      */
-    public $resourcesPath = '/usr/stud/starkf/caffe/examples/captcha/generate/cool-captcha/resources/';
+    public $resourcesPath = 'cool-captcha/resources/';
 
     /** Min word length (for non-dictionary random text generation) */
     public $minWordLength = 5;
